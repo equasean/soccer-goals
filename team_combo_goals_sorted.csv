@@ -1,0 +1,1071 @@
+team_pair,num_goals,num_matchups,avg_goals_per_game
+FC Barcelona_Real Betis Balompié,77.0,14,5.5
+Arsenal FC_Liverpool FC,73.0,15,4.87
+Bayern Munich_SV Werder Bremen,70.0,12,5.83
+Bayern Munich_VfL Wolfsburg,66.0,13,5.08
+Borussia Mönchengladbach_TSG 1899 Hoffenheim,65.0,13,5.0
+Borussia Dortmund_FC Augsburg,65.0,12,5.42
+Bayern Munich_Borussia Dortmund,65.0,13,5.0
+1.FSV Mainz 05_Bayern Munich,65.0,13,5.0
+Celta de Vigo_FC Barcelona,64.0,13,4.92
+Celta de Vigo_Real Madrid,63.0,12,5.25
+Borussia Dortmund_Eintracht Frankfurt,62.0,13,4.77
+Real Madrid_Real Sociedad,62.0,12,5.17
+Bayer 04 Leverkusen_Borussia Dortmund,61.0,11,5.55
+Montpellier HSC_Olympique Lyon,60.0,10,6.0
+Liverpool FC_Manchester City,60.0,13,4.62
+Borussia Dortmund_Borussia Mönchengladbach,59.0,11,5.36
+1.FSV Mainz 05_TSG 1899 Hoffenheim,59.0,11,5.36
+Manchester City_Newcastle United,59.0,12,4.92
+Bologna FC 1909_SSC Napoli,59.0,12,4.92
+Real Madrid_Sevilla FC,57.0,11,5.18
+FC Barcelona_Real Sociedad,57.0,11,5.18
+Borussia Dortmund_SC Freiburg,57.0,12,4.75
+Arsenal FC_West Ham United,57.0,12,4.75
+Borussia Dortmund_VfB Stuttgart,56.0,11,5.09
+FC Barcelona_Levante UD,55.0,10,5.5
+Leicester City_Tottenham Hotspur,55.0,9,6.11
+Liverpool FC_West Ham United,54.0,12,4.5
+Manchester City_Tottenham Hotspur,54.0,11,4.91
+Southampton FC_Tottenham Hotspur,53.0,10,5.3
+ACF Fiorentina_Inter Milan,53.0,9,5.89
+FC Barcelona_Villarreal CF,53.0,10,5.3
+Borussia Mönchengladbach_SV Werder Bremen,53.0,11,4.82
+Borussia Dortmund_TSG 1899 Hoffenheim,53.0,12,4.42
+AS Monaco_Olympique Marseille,52.0,10,5.2
+Bayer 04 Leverkusen_Borussia Mönchengladbach,52.0,10,5.2
+Manchester City_Southampton FC,51.0,10,5.1
+Hertha BSC_RB Leipzig,51.0,9,5.67
+Bayern Munich_FC Augsburg,51.0,10,5.1
+1.FSV Mainz 05_RB Leipzig,51.0,10,5.1
+Montpellier HSC_Paris Saint-Germain,51.0,11,4.64
+Montpellier HSC_Stade Reims,51.0,11,4.64
+Manchester United_Newcastle United,50.0,10,5.0
+Borussia Dortmund_SV Werder Bremen,50.0,10,5.0
+Borussia Mönchengladbach_FC Augsburg,50.0,10,5.0
+FC Barcelona_Valencia CF,50.0,10,5.0
+Bayern Munich_Eintracht Frankfurt,49.0,9,5.44
+Bayer 04 Leverkusen_VfL Wolfsburg,49.0,10,4.9
+Newcastle United_Southampton FC,48.0,11,4.36
+Borussia Mönchengladbach_Eintracht Frankfurt,48.0,10,4.8
+Bayer 04 Leverkusen_TSG 1899 Hoffenheim,48.0,10,4.8
+SS Lazio_SSC Napoli,48.0,9,5.33
+FC Barcelona_Rayo Vallecano,48.0,9,5.33
+Genoa CFC_SS Lazio,48.0,10,4.8
+AS Roma_Genoa CFC,48.0,10,4.8
+Bayern Munich_Hamburger SV,47.0,7,6.71
+Juventus FC_US Sassuolo,47.0,10,4.7
+Celta de Vigo_Villarreal CF,47.0,10,4.7
+SV Werder Bremen_TSG 1899 Hoffenheim,47.0,9,5.22
+AS Roma_US Sassuolo,47.0,10,4.7
+1.FSV Mainz 05_Bayer 04 Leverkusen,47.0,10,4.7
+Atalanta BC_SS Lazio,46.0,9,5.11
+TSG 1899 Hoffenheim_VfB Stuttgart,46.0,9,5.11
+Crystal Palace_West Ham United,46.0,10,4.6
+Crystal Palace_Liverpool FC,46.0,9,5.11
+RCD Espanyol Barcelona_Sevilla FC,46.0,9,5.11
+SSC Napoli_Udinese Calcio,46.0,9,5.11
+LOSC Lille_Paris Saint-Germain,46.0,8,5.75
+FC Barcelona_Real Madrid,46.0,10,4.6
+Real Madrid_Valencia CF,46.0,10,4.6
+Bayern Munich_VfB Stuttgart,46.0,10,4.6
+SC Freiburg_TSG 1899 Hoffenheim,46.0,8,5.75
+Bayer 04 Leverkusen_Eintracht Frankfurt,45.0,9,5.0
+Bayern Munich_FC Schalke 04,45.0,9,5.0
+Eintracht Frankfurt_TSG 1899 Hoffenheim,45.0,10,4.5
+FC Barcelona_Sevilla FC,45.0,9,5.0
+Bayern Munich_TSG 1899 Hoffenheim,45.0,9,5.0
+Borussia Dortmund_VfL Wolfsburg,44.0,8,5.5
+Inter Milan_Udinese Calcio,44.0,9,4.89
+SSC Napoli_UC Sampdoria,44.0,8,5.5
+SV Werder Bremen_VfL Wolfsburg,44.0,8,5.5
+1.FC Köln_TSG 1899 Hoffenheim,44.0,9,4.89
+TSG 1899 Hoffenheim_VfL Wolfsburg,44.0,9,4.89
+Atalanta BC_Inter Milan,44.0,8,5.5
+Chelsea FC_Southampton FC,44.0,9,4.89
+AS Monaco_Montpellier HSC,44.0,9,4.89
+AS Saint-Étienne_Paris Saint-Germain,44.0,10,4.4
+Arsenal FC_Manchester City,43.0,9,4.78
+Bayern Munich_Hertha BSC,43.0,9,4.78
+OGC Nice_Olympique Lyon,43.0,9,4.78
+Liverpool FC_Tottenham Hotspur,43.0,9,4.78
+Deportivo de La Coruña_FC Barcelona,43.0,8,5.38
+RCD Espanyol Barcelona_Real Madrid,43.0,9,4.78
+FC Girondins Bordeaux_Olympique Lyon,43.0,9,4.78
+Bayern Munich_Borussia Mönchengladbach,43.0,8,5.38
+Eintracht Frankfurt_Hertha BSC,43.0,8,5.38
+FC Barcelona_RCD Espanyol Barcelona,43.0,9,4.78
+Tottenham Hotspur_West Ham United,43.0,9,4.78
+Bayer 04 Leverkusen_FC Augsburg,42.0,9,4.67
+Atalanta BC_Torino FC,42.0,7,6.0
+FC Augsburg_SV Werder Bremen,42.0,9,4.67
+Deportivo de La Coruña_Real Madrid,42.0,6,7.0
+ACF Fiorentina_UC Sampdoria,42.0,9,4.67
+UC Sampdoria_US Sassuolo,42.0,8,5.25
+FC Barcelona_Getafe CF,42.0,7,6.0
+Bayer 04 Leverkusen_SV Werder Bremen,42.0,8,5.25
+Liverpool FC_Norwich City,41.0,7,5.86
+SSC Napoli_Torino FC,41.0,8,5.12
+1.FSV Mainz 05_VfB Stuttgart,41.0,9,4.56
+AS Roma_Atalanta BC,41.0,8,5.12
+ACF Fiorentina_US Sassuolo,41.0,9,4.56
+FC Lorient_Olympique Lyon,41.0,9,4.56
+Levante UD_Real Madrid,41.0,8,5.12
+Manchester City_Watford FC,41.0,8,5.12
+Inter Milan_US Sassuolo,41.0,7,5.86
+Arsenal FC_Chelsea FC,41.0,9,4.56
+Juventus FC_UC Sampdoria,41.0,8,5.12
+FC Schalke 04_TSG 1899 Hoffenheim,41.0,8,5.12
+AS Monaco_Olympique Lyon,40.0,8,5.0
+Leicester City_Manchester City,40.0,7,5.71
+SC Freiburg_VfL Wolfsburg,40.0,8,5.0
+AS Roma_Cagliari Calcio,40.0,8,5.0
+Borussia Mönchengladbach_SC Freiburg,40.0,8,5.0
+1.FC Köln_Borussia Dortmund,40.0,8,5.0
+AS Monaco_Paris Saint-Germain,40.0,8,5.0
+ACF Fiorentina_Genoa CFC,40.0,7,5.71
+Athletic Bilbao_Real Betis Balompié,40.0,8,5.0
+Bayern Munich_Hannover 96,40.0,9,4.44
+Bayern Munich_SC Freiburg,40.0,9,4.44
+Newcastle United_Tottenham Hotspur,40.0,8,5.0
+FC Lorient_Paris Saint-Germain,40.0,9,4.44
+Borussia Dortmund_FC Schalke 04,39.0,8,4.88
+Hertha BSC_SV Werder Bremen,39.0,8,4.88
+Manchester City_Manchester United,39.0,7,5.57
+Newcastle United_West Ham United,39.0,8,4.88
+Granada CF_Real Madrid,39.0,7,5.57
+Levante UD_Real Betis Balompié,39.0,8,4.88
+Arsenal FC_Southampton FC,39.0,8,4.88
+Juventus FC_Udinese Calcio,39.0,8,4.88
+Aston Villa_Manchester City,39.0,8,4.88
+Bayer 04 Leverkusen_Hannover 96,39.0,8,4.88
+AC Milan_SSC Napoli,39.0,9,4.33
+Montpellier HSC_Olympique Marseille,39.0,8,4.88
+1.FSV Mainz 05_Borussia Mönchengladbach,39.0,9,4.33
+AS Roma_Inter Milan,38.0,9,4.22
+Manchester City_Norwich City,38.0,7,5.43
+Celta de Vigo_Real Sociedad,38.0,8,4.75
+Inter Milan_SS Lazio,38.0,9,4.22
+Atalanta BC_Udinese Calcio,38.0,7,5.43
+Manchester City_West Ham United,38.0,9,4.22
+SC Freiburg_VfB Stuttgart,38.0,8,4.75
+Everton FC_Liverpool FC,38.0,8,4.75
+Chelsea FC_Tottenham Hotspur,38.0,8,4.75
+CA Osasuna_Real Madrid,38.0,8,4.75
+Aston Villa_Southampton FC,38.0,7,5.43
+FC Augsburg_TSG 1899 Hoffenheim,38.0,9,4.22
+FC Nantes_Paris Saint-Germain,38.0,8,4.75
+Bayer 04 Leverkusen_VfB Stuttgart,38.0,7,5.43
+Rayo Vallecano_Real Madrid,38.0,6,6.33
+Inter Milan_UC Sampdoria,37.0,8,4.62
+UC Sampdoria_Udinese Calcio,37.0,8,4.62
+Eintracht Frankfurt_VfB Stuttgart,37.0,7,5.29
+Real Betis Balompié_Real Sociedad,37.0,7,5.29
+1.FC Köln_Bayern Munich,37.0,8,4.62
+Manchester United_Southampton FC,37.0,7,5.29
+Real Madrid_Villarreal CF,37.0,8,4.62
+Bayer 04 Leverkusen_Hertha BSC,37.0,7,5.29
+Atalanta BC_SSC Napoli,37.0,8,4.62
+FC Girondins Bordeaux_Paris Saint-Germain,37.0,7,5.29
+Crystal Palace_Manchester City,37.0,8,4.62
+CA Osasuna_FC Barcelona,37.0,7,5.29
+Inter Milan_SSC Napoli,36.0,8,4.5
+Bayer 04 Leverkusen_Bayern Munich,36.0,8,4.5
+Chelsea FC_Everton FC,36.0,7,5.14
+FC Empoli_SSC Napoli,36.0,7,5.14
+AC Milan_Parma Calcio 1913,36.0,7,5.14
+Arsenal FC_Crystal Palace,36.0,8,4.5
+Athletic Bilbao_FC Barcelona,36.0,7,5.14
+FC Toulouse_Stade Rennais FC,36.0,8,4.5
+Arsenal FC_Everton FC,36.0,7,5.14
+Borussia Mönchengladbach_Hertha BSC,36.0,7,5.14
+AS Monaco_FC Lorient,36.0,8,4.5
+Cagliari Calcio_UC Sampdoria,36.0,8,4.5
+1.FC Köln_Eintracht Frankfurt,35.0,6,5.83
+Hellas Verona_SS Lazio,35.0,6,5.83
+Cagliari Calcio_Inter Milan,35.0,8,4.38
+Arsenal FC_Manchester United,35.0,8,4.38
+Atalanta BC_Juventus FC,35.0,8,4.38
+Liverpool FC_Swansea City,35.0,7,5.0
+AFC Bournemouth_Manchester City,35.0,8,4.38
+Celta de Vigo_Real Betis Balompié,35.0,6,5.83
+AC Milan_Inter Milan,35.0,7,5.0
+AC Milan_US Sassuolo,35.0,6,5.83
+AS Monaco_LOSC Lille,35.0,7,5.0
+AFC Bournemouth_Tottenham Hotspur,35.0,7,5.0
+Liverpool FC_Newcastle United,35.0,8,4.38
+Levante UD_Sevilla FC,35.0,6,5.83
+Borussia Dortmund_Hertha BSC,34.0,7,4.86
+FC Metz_Paris Saint-Germain,34.0,7,4.86
+FC Toulouse_Olympique Marseille,34.0,6,5.67
+Getafe CF_Valencia CF,34.0,7,4.86
+Getafe CF_Real Madrid,34.0,6,5.67
+Dijon FCO_Olympique Lyon,34.0,6,5.67
+FC Barcelona_SD Eibar,34.0,7,4.86
+Atlético de Madrid_Sevilla FC,34.0,7,4.86
+AFC Bournemouth_West Ham United,34.0,7,4.86
+1.FSV Mainz 05_SV Werder Bremen,34.0,8,4.25
+Real Betis Balompié_Real Madrid,34.0,6,5.67
+ACF Fiorentina_SS Lazio,34.0,7,4.86
+ACF Fiorentina_AS Roma,34.0,7,4.86
+Everton FC_Manchester City,34.0,8,4.25
+Everton FC_Tottenham Hotspur,34.0,7,4.86
+VfB Stuttgart_VfL Wolfsburg,33.0,8,4.12
+AC Milan_AS Roma,33.0,7,4.71
+ACF Fiorentina_SSC Napoli,33.0,6,5.5
+Cagliari Calcio_Torino FC,33.0,6,5.5
+Stade Reims_Stade Rennais FC,33.0,8,4.12
+ACF Fiorentina_Atalanta BC,33.0,7,4.71
+1.FSV Mainz 05_FC Augsburg,33.0,7,4.71
+Hellas Verona_SSC Napoli,33.0,6,5.5
+Bayern Munich_RB Leipzig,33.0,6,5.5
+Atalanta BC_Genoa CFC,33.0,7,4.71
+ESTAC Troyes_Paris Saint-Germain,33.0,6,5.5
+Genoa CFC_US Sassuolo,33.0,6,5.5
+Arsenal FC_Tottenham Hotspur,33.0,7,4.71
+Liverpool FC_Southampton FC,33.0,7,4.71
+SS Lazio_Torino FC,33.0,7,4.71
+SSC Napoli_US Sassuolo,33.0,7,4.71
+Real Betis Balompié_Sevilla FC,33.0,6,5.5
+AFC Bournemouth_Liverpool FC,32.0,6,5.33
+Paris Saint-Germain_RC Strasbourg Alsace,32.0,6,5.33
+Olympique Lyon_Paris Saint-Germain,32.0,6,5.33
+Atalanta BC_US Sassuolo,32.0,6,5.33
+Burnley FC_Chelsea FC,32.0,7,4.57
+Brighton & Hove Albion_Manchester City,32.0,7,4.57
+Dijon FCO_Paris Saint-Germain,32.0,7,4.57
+AS Roma_Torino FC,32.0,7,4.57
+Leicester City_West Ham United,32.0,7,4.57
+1.FSV Mainz 05_Borussia Dortmund,32.0,7,4.57
+Everton FC_Newcastle United,32.0,7,4.57
+Real Betis Balompié_Valencia CF,32.0,6,5.33
+Arsenal FC_Leicester City,32.0,6,5.33
+Real Sociedad_Sevilla FC,32.0,6,5.33
+AS Saint-Étienne_FC Girondins Bordeaux,32.0,7,4.57
+Atlético de Madrid_Valencia CF,32.0,7,4.57
+Real Sociedad_Valencia CF,32.0,6,5.33
+Montpellier HSC_OGC Nice,32.0,7,4.57
+Aston Villa_Liverpool FC,32.0,6,5.33
+AC Milan_SS Lazio,31.0,7,4.43
+FC Barcelona_Granada CF,31.0,7,4.43
+AC Milan_Torino FC,31.0,6,5.17
+Rayo Vallecano_Villarreal CF,31.0,6,5.17
+Rayo Vallecano_Real Sociedad,31.0,7,4.43
+FC Schalke 04_VfB Stuttgart,31.0,7,4.43
+Crystal Palace_Everton FC,31.0,7,4.43
+FC Lorient_LOSC Lille,31.0,7,4.43
+Southampton FC_West Ham United,31.0,7,4.43
+Brighton & Hove Albion_Everton FC,31.0,6,5.17
+Atlético de Madrid_Cádiz CF,31.0,6,5.17
+FC Toulouse_Paris Saint-Germain,31.0,6,5.17
+Parma Calcio 1913_Udinese Calcio,31.0,7,4.43
+Leicester City_Manchester United,31.0,6,5.17
+Eintracht Frankfurt_SV Werder Bremen,31.0,6,5.17
+Cagliari Calcio_US Sassuolo,31.0,6,5.17
+Levante UD_Valencia CF,31.0,6,5.17
+FC Augsburg_SC Freiburg,31.0,6,5.17
+Manchester City_West Bromwich Albion,31.0,7,4.43
+Hellas Verona_US Sassuolo,31.0,6,5.17
+AS Roma_Bologna FC 1909,31.0,6,5.17
+Torino FC_UC Sampdoria,31.0,7,4.43
+OGC Nice_Paris Saint-Germain,31.0,7,4.43
+Olympique Marseille_Paris Saint-Germain,31.0,7,4.43
+Paris Saint-Germain_Stade Reims,31.0,7,4.43
+AC Milan_ACF Fiorentina,30.0,6,5.0
+AC Milan_Hellas Verona,30.0,7,4.29
+FC Girondins Bordeaux_Montpellier HSC,30.0,6,5.0
+Celta de Vigo_Sevilla FC,30.0,6,5.0
+Brighton & Hove Albion_West Ham United,30.0,7,4.29
+FC Girondins Bordeaux_FC Lorient,30.0,6,5.0
+Chelsea FC_Sunderland AFC,30.0,6,5.0
+Leicester City_Liverpool FC,30.0,7,4.29
+Bayern Munich_Fortuna Düsseldorf,30.0,6,5.0
+Cagliari Calcio_SSC Napoli,30.0,6,5.0
+Hellas Verona_Inter Milan,30.0,6,5.0
+Liverpool FC_Manchester United,30.0,6,5.0
+Everton FC_Watford FC,30.0,6,5.0
+AS Roma_Udinese Calcio,30.0,7,4.29
+Borussia Dortmund_RB Leipzig,30.0,6,5.0
+1.FC Köln_Hertha BSC,30.0,6,5.0
+AS Monaco_RC Strasbourg Alsace,30.0,6,5.0
+FC Schalke 04_RB Leipzig,30.0,6,5.0
+Aston Villa_Manchester United,30.0,7,4.29
+FC Augsburg_VfB Stuttgart,30.0,6,5.0
+Olympique Lyon_Olympique Marseille,30.0,6,5.0
+Bologna FC 1909_Inter Milan,30.0,6,5.0
+Paris Saint-Germain_Stade Rennais FC,30.0,7,4.29
+Genoa CFC_Juventus FC,30.0,7,4.29
+Chelsea FC_West Bromwich Albion,30.0,6,5.0
+Borussia Dortmund_Hamburger SV,29.0,5,5.8
+Celta de Vigo_RCD Espanyol Barcelona,29.0,7,4.14
+Bayer 04 Leverkusen_RB Leipzig,29.0,6,4.83
+Eintracht Frankfurt_FC Schalke 04,29.0,6,4.83
+Hertha BSC_TSG 1899 Hoffenheim,29.0,6,4.83
+Cagliari Calcio_Juventus FC,29.0,7,4.14
+1.FC Köln_RB Leipzig,29.0,6,4.83
+Atlético de Madrid_Rayo Vallecano,29.0,5,5.8
+AS Saint-Étienne_OGC Nice,29.0,6,4.83
+Liverpool FC_Stoke City,29.0,5,5.8
+Levante UD_RCD Espanyol Barcelona,29.0,6,4.83
+FC Schalke 04_VfL Wolfsburg,29.0,6,4.83
+AS Roma_Juventus FC,29.0,6,4.83
+Manchester United_Tottenham Hotspur,29.0,6,4.83
+Torino FC_Udinese Calcio,29.0,6,4.83
+FC Lorient_FC Metz,29.0,6,4.83
+1.FC Köln_Borussia Mönchengladbach,29.0,6,4.83
+Eintracht Frankfurt_SC Freiburg,28.0,6,4.67
+Eintracht Frankfurt_VfL Wolfsburg,28.0,6,4.67
+OGC Nice_Olympique Marseille,28.0,6,4.67
+Brighton & Hove Albion_Liverpool FC,28.0,6,4.67
+ACF Fiorentina_Cagliari Calcio,28.0,5,5.6
+Arsenal FC_Aston Villa,28.0,6,4.67
+AC Milan_Chievo Verona,28.0,6,4.67
+1.FC Köln_1.FSV Mainz 05,28.0,6,4.67
+ESTAC Troyes_Olympique Lyon,28.0,6,4.67
+RCD Espanyol Barcelona_Villarreal CF,28.0,6,4.67
+Liverpool FC_Watford FC,28.0,5,5.6
+Inter Milan_Torino FC,28.0,6,4.67
+RCD Espanyol Barcelona_Real Sociedad,28.0,6,4.67
+Borussia Mönchengladbach_VfL Wolfsburg,28.0,7,4.0
+AS Monaco_FC Toulouse,28.0,6,4.67
+Olympique Marseille_Stade Rennais FC,28.0,6,4.67
+Borussia Mönchengladbach_FC Schalke 04,28.0,6,4.67
+FC Augsburg_FC Schalke 04,28.0,6,4.67
+Juventus FC_Torino FC,28.0,6,4.67
+Olympique Lyon_Stade Rennais FC,28.0,6,4.67
+Hannover 96_TSG 1899 Hoffenheim,28.0,6,4.67
+FC Toulouse_Olympique Lyon,28.0,6,4.67
+Genoa CFC_Udinese Calcio,28.0,6,4.67
+Torino FC_US Sassuolo,28.0,5,5.6
+Watford FC_West Ham United,28.0,6,4.67
+1.FC Köln_VfL Wolfsburg,28.0,6,4.67
+CA Osasuna_Valencia CF,28.0,6,4.67
+SS Lazio_UC Sampdoria,28.0,5,5.6
+1.FSV Mainz 05_SC Freiburg,28.0,6,4.67
+Deportivo de La Coruña_Sevilla FC,27.0,5,5.4
+FC Lorient_Olympique Marseille,27.0,5,5.4
+AS Monaco_FC Nantes,27.0,6,4.5
+Deportivo de La Coruña_Málaga CF,27.0,5,5.4
+AS Roma_Chievo Verona,27.0,5,5.4
+AFC Bournemouth_Everton FC,27.0,5,5.4
+Cagliari Calcio_SS Lazio,27.0,6,4.5
+ACF Fiorentina_Torino FC,27.0,6,4.5
+Borussia Dortmund_Hannover 96,27.0,5,5.4
+EA Guingamp_Paris Saint-Germain,27.0,5,5.4
+FC Empoli_US Sassuolo,27.0,6,4.5
+AS Roma_SS Lazio,27.0,6,4.5
+AC Milan_Bologna FC 1909,27.0,5,5.4
+Celta de Vigo_Levante UD,27.0,5,5.4
+Everton FC_Leicester City,27.0,6,4.5
+Bayern Munich_VfL Bochum,27.0,4,6.75
+Eintracht Frankfurt_FC Augsburg,27.0,6,4.5
+Aston Villa_Everton FC,27.0,6,4.5
+Celta de Vigo_UD Almería,27.0,6,4.5
+LOSC Lille_Olympique Lyon,27.0,6,4.5
+Leicester City_Southampton FC,27.0,5,5.4
+Atalanta BC_Parma Calcio 1913,27.0,5,5.4
+Real Madrid_Real Valladolid CF,27.0,5,5.4
+Borussia Mönchengladbach_RB Leipzig,26.0,6,4.33
+Brighton & Hove Albion_Wolverhampton Wanderers,26.0,5,5.2
+Chelsea FC_Manchester United,26.0,6,4.33
+1.FC Köln_SC Freiburg,26.0,5,5.2
+SV Werder Bremen_VfB Stuttgart,26.0,5,5.2
+RCD Espanyol Barcelona_Valencia CF,26.0,6,4.33
+1.FC Köln_SV Werder Bremen,26.0,4,6.5
+Crystal Palace_Sunderland AFC,26.0,6,4.33
+Cagliari Calcio_Udinese Calcio,26.0,5,5.2
+1.FSV Mainz 05_Eintracht Frankfurt,26.0,6,4.33
+FC Barcelona_RCD Mallorca,26.0,5,5.2
+AS Monaco_AS Saint-Étienne,26.0,6,4.33
+Hannover 96_VfB Stuttgart,26.0,5,5.2
+Angers SCO_Paris Saint-Germain,26.0,5,5.2
+Genoa CFC_Inter Milan,26.0,6,4.33
+Angers SCO_Olympique Lyon,26.0,5,5.2
+Levante UD_Rayo Vallecano,26.0,5,5.2
+Levante UD_SD Eibar,26.0,5,5.2
+Hellas Verona_Torino FC,26.0,6,4.33
+Athletic Bilbao_Getafe CF,26.0,6,4.33
+Granada CF_Villarreal CF,26.0,5,5.2
+Atlético de Madrid_Celta de Vigo,26.0,6,4.33
+Atlético de Madrid_Levante UD,26.0,6,4.33
+Granada CF_Real Sociedad,26.0,5,5.2
+Hellas Verona_UC Sampdoria,26.0,6,4.33
+Hannover 96_SV Werder Bremen,25.0,5,5.0
+Genoa CFC_Hellas Verona,25.0,5,5.0
+Arsenal FC_Fulham FC,25.0,5,5.0
+SS Lazio_US Sassuolo,25.0,5,5.0
+Chelsea FC_Norwich City,25.0,5,5.0
+FC Schalke 04_Hannover 96,25.0,5,5.0
+AS Monaco_EA Guingamp,25.0,5,5.0
+Getafe CF_Granada CF,25.0,5,5.0
+AC Milan_UC Sampdoria,25.0,5,5.0
+Real Madrid_SD Eibar,25.0,6,4.17
+Juventus FC_SSC Napoli,25.0,5,5.0
+FC Schalke 04_Hamburger SV,25.0,5,5.0
+Athletic Bilbao_Real Madrid,25.0,5,5.0
+ACF Fiorentina_Hellas Verona,25.0,4,6.25
+Athletic Bilbao_Real Sociedad,25.0,6,4.17
+FC Lorient_RC Lens,25.0,5,5.0
+AS Roma_Hellas Verona,25.0,6,4.17
+EA Guingamp_OGC Nice,25.0,4,6.25
+Manchester United_West Ham United,25.0,6,4.17
+RCD Espanyol Barcelona_Real Betis Balompié,25.0,6,4.17
+AFC Bournemouth_Arsenal FC,25.0,5,5.0
+Málaga CF_Sevilla FC,25.0,5,5.0
+Genoa CFC_SSC Napoli,25.0,5,5.0
+Cagliari Calcio_Parma Calcio 1913,24.0,5,4.8
+Chelsea FC_Stoke City,24.0,5,4.8
+Hannover 96_VfL Wolfsburg,24.0,6,4.0
+SC Freiburg_SV Werder Bremen,24.0,5,4.8
+Real Madrid_UD Almería,24.0,5,4.8
+Leeds United_Manchester United,24.0,4,6.0
+RCD Mallorca_Real Madrid,24.0,4,6.0
+ESTAC Troyes_Stade Rennais FC,24.0,5,4.8
+Manchester City_Swansea City,24.0,5,4.8
+EA Guingamp_FC Lorient,24.0,5,4.8
+Montpellier HSC_RC Strasbourg Alsace,24.0,5,4.8
+Dijon FCO_Montpellier HSC,24.0,5,4.8
+EA Guingamp_Olympique Lyon,24.0,5,4.8
+West Bromwich Albion_West Ham United,24.0,5,4.8
+Bayer 04 Leverkusen_SC Freiburg,24.0,5,4.8
+AS Monaco_FC Metz,24.0,5,4.8
+Atalanta BC_Spezia Calcio,24.0,5,4.8
+Atlético de Madrid_Granada CF,24.0,4,6.0
+Burnley FC_Manchester City,24.0,5,4.8
+AS Roma_SSC Napoli,24.0,5,4.8
+Angers SCO_Montpellier HSC,24.0,5,4.8
+Sevilla FC_Valencia CF,23.0,5,4.6
+FC Augsburg_VfL Wolfsburg,23.0,4,5.75
+Cagliari Calcio_Genoa CFC,23.0,5,4.6
+Bologna FC 1909_FC Empoli,23.0,5,4.6
+Rayo Vallecano_Sevilla FC,23.0,5,4.6
+Sevilla FC_Villarreal CF,23.0,5,4.6
+FC Lorient_FC Toulouse,23.0,5,4.6
+Celta de Vigo_UD Las Palmas,23.0,4,5.75
+RB Leipzig_TSG 1899 Hoffenheim,23.0,5,4.6
+Chelsea FC_Swansea City,23.0,5,4.6
+FC Augsburg_RB Leipzig,23.0,5,4.6
+Burnley FC_Everton FC,23.0,5,4.6
+AC Milan_Juventus FC,23.0,5,4.6
+FC Barcelona_Real Valladolid CF,23.0,5,4.6
+AC Milan_FC Empoli,23.0,5,4.6
+Palermo FC_Udinese Calcio,23.0,5,4.6
+Olympique Marseille_Stade Reims,23.0,5,4.6
+Athletic Bilbao_Real Valladolid CF,23.0,5,4.6
+FC Nantes_Olympique Marseille,23.0,5,4.6
+SD Eibar_Sevilla FC,23.0,5,4.6
+Montpellier HSC_Stade Rennais FC,23.0,5,4.6
+1.FSV Mainz 05_Hamburger SV,23.0,5,4.6
+Manchester City_Stoke City,23.0,4,5.75
+Olympique Marseille_RC Strasbourg Alsace,23.0,5,4.6
+FC Lorient_Stade Reims,23.0,5,4.6
+Paris Saint-Germain_SC Bastia,23.0,5,4.6
+Dijon FCO_FC Girondins Bordeaux,22.0,5,4.4
+1.FC Köln_Bayer 04 Leverkusen,22.0,5,4.4
+Arsenal FC_Watford FC,22.0,5,4.4
+Chelsea FC_West Ham United,22.0,5,4.4
+Benevento Calcio_SS Lazio,22.0,3,7.33
+Chelsea FC_Watford FC,22.0,4,5.5
+Brighton & Hove Albion_Manchester United,22.0,5,4.4
+Everton FC_Fulham FC,22.0,5,4.4
+Málaga CF_Real Madrid,22.0,4,5.5
+Bologna FC 1909_UC Sampdoria,22.0,5,4.4
+Crystal Palace_Leicester City,22.0,5,4.4
+1.FC Union Berlin_TSG 1899 Hoffenheim,22.0,5,4.4
+Everton FC_West Ham United,22.0,5,4.4
+AC Milan_Atalanta BC,22.0,5,4.4
+Swansea City_Tottenham Hotspur,22.0,5,4.4
+Olympique Lyon_SM Caen,22.0,5,4.4
+FC Schalke 04_SV Werder Bremen,22.0,5,4.4
+CA Osasuna_Sevilla FC,22.0,4,5.5
+AS Saint-Étienne_Olympique Marseille,22.0,5,4.4
+UD Almería_Valencia CF,22.0,5,4.4
+Amiens SC_Paris Saint-Germain,22.0,4,5.5
+Athletic Bilbao_Valencia CF,22.0,5,4.4
+Athletic Bilbao_Villarreal CF,22.0,5,4.4
+Celta de Vigo_Rayo Vallecano,22.0,4,5.5
+Genoa CFC_Torino FC,22.0,4,5.5
+Athletic Bilbao_Atlético de Madrid,22.0,5,4.4
+Deportivo Alavés_FC Barcelona,22.0,4,5.5
+Atlético de Madrid_SD Eibar,22.0,5,4.4
+Arsenal FC_Norwich City,22.0,5,4.4
+Stoke City_Tottenham Hotspur,22.0,5,4.4
+RCD Espanyol Barcelona_Rayo Vallecano,22.0,5,4.4
+Olympique Lyon_RC Strasbourg Alsace,22.0,5,4.4
+FC Barcelona_Sporting Gijón,22.0,4,5.5
+AFC Bournemouth_Watford FC,22.0,5,4.4
+Athletic Bilbao_Levante UD,21.0,5,4.2
+Palermo FC_Torino FC,21.0,5,4.2
+Borussia Mönchengladbach_VfB Stuttgart,21.0,5,4.2
+FC Augsburg_Hamburger SV,21.0,5,4.2
+Deportivo de La Coruña_Real Sociedad,21.0,4,5.25
+FC Metz_Montpellier HSC,21.0,5,4.2
+Atlético de Madrid_Real Betis Balompié,21.0,4,5.25
+Paris Saint-Germain_RC Lens,21.0,5,4.2
+Olympique Lyon_SC Bastia,21.0,4,5.25
+Aston Villa_Tottenham Hotspur,21.0,5,4.2
+Fulham FC_Liverpool FC,21.0,5,4.2
+AFC Bournemouth_Chelsea FC,21.0,5,4.2
+Rayo Vallecano_Real Betis Balompié,21.0,5,4.2
+Granada CF_Sevilla FC,21.0,4,5.25
+Elche CF_Villarreal CF,21.0,5,4.2
+ACF Fiorentina_Udinese Calcio,21.0,5,4.2
+AS Saint-Étienne_FC Lorient,21.0,4,5.25
+Juventus FC_Parma Calcio 1913,21.0,4,5.25
+Angers SCO_Nîmes Olympique,21.0,4,5.25
+Juventus FC_SS Lazio,21.0,5,4.2
+AS Roma_FC Empoli,21.0,4,5.25
+Crystal Palace_Southampton FC,21.0,5,4.2
+1.FC Union Berlin_Borussia Dortmund,21.0,4,5.25
+CA Osasuna_Villarreal CF,21.0,5,4.2
+AS Monaco_Stade Reims,21.0,5,4.2
+Manchester United_Norwich City,21.0,5,4.2
+AS Roma_Palermo FC,21.0,4,5.25
+Clermont Foot 63_Paris Saint-Germain,21.0,4,5.25
+Bologna FC 1909_SS Lazio,20.0,4,5.0
+AFC Bournemouth_Manchester United,20.0,4,5.0
+Olympique Marseille_SM Caen,20.0,4,5.0
+FC Girondins Bordeaux_Olympique Marseille,20.0,5,4.0
+Norwich City_West Ham United,20.0,5,4.0
+AC Milan_Udinese Calcio,20.0,4,5.0
+1.FC Union Berlin_SC Freiburg,20.0,4,5.0
+EA Guingamp_FC Girondins Bordeaux,20.0,4,5.0
+Aston Villa_Leicester City,20.0,4,5.0
+Paris Saint-Germain_SM Caen,20.0,4,5.0
+Leicester City_Newcastle United,20.0,4,5.0
+Angers SCO_Olympique Marseille,20.0,4,5.0
+Burnley FC_Manchester United,20.0,5,4.0
+Leeds United_Tottenham Hotspur,20.0,4,5.0
+Bayern Munich_SC Paderborn 07,20.0,4,5.0
+FC Nantes_Olympique Lyon,20.0,4,5.0
+FC Schalke 04_SC Freiburg,20.0,5,4.0
+Manchester City_Wolverhampton Wanderers,20.0,4,5.0
+LOSC Lille_Stade Rennais FC,20.0,5,4.0
+Chelsea FC_Liverpool FC,20.0,4,5.0
+Leeds United_Liverpool FC,20.0,3,6.67
+1.FC Köln_FC Schalke 04,20.0,5,4.0
+Hertha BSC_VfL Wolfsburg,20.0,4,5.0
+Girona FC_UD Almería,20.0,3,6.67
+FC Metz_LOSC Lille,20.0,4,5.0
+AS Monaco_OGC Nice,20.0,5,4.0
+Burnley FC_Crystal Palace,20.0,4,5.0
+Real Sociedad_Villarreal CF,20.0,4,5.0
+AS Saint-Étienne_Stade Reims,20.0,5,4.0
+Atalanta BC_Bologna FC 1909,19.0,4,4.75
+Chelsea FC_Newcastle United,19.0,4,4.75
+Bologna FC 1909_Torino FC,19.0,4,4.75
+Aston Villa_West Bromwich Albion,19.0,4,4.75
+Elche CF_FC Barcelona,19.0,4,4.75
+Granada CF_SD Eibar,19.0,4,4.75
+FC Augsburg_Hertha BSC,19.0,4,4.75
+Granada CF_Real Betis Balompié,19.0,4,4.75
+Chievo Verona_SS Lazio,19.0,4,4.75
+AS Monaco_Stade Rennais FC,19.0,4,4.75
+Olympique Lyon_Stade Brestois 29,19.0,4,4.75
+Granada CF_Levante UD,19.0,4,4.75
+Hamburger SV_TSG 1899 Hoffenheim,19.0,4,4.75
+Atlético de Madrid_FC Barcelona,19.0,4,4.75
+1.FC Köln_FC Augsburg,19.0,4,4.75
+Arsenal FC_Newcastle United,19.0,3,6.33
+Montpellier HSC_Stade Brestois 29,19.0,4,4.75
+CD Leganés_Real Madrid,19.0,4,4.75
+Deportivo Alavés_Real Madrid,19.0,4,4.75
+FC Metz_Olympique Lyon,19.0,4,4.75
+Crystal Palace_West Bromwich Albion,19.0,4,4.75
+AS Roma_UC Sampdoria,19.0,4,4.75
+Manchester City_Sunderland AFC,19.0,4,4.75
+Leicester City_West Bromwich Albion,19.0,4,4.75
+FC Girondins Bordeaux_Stade Reims,19.0,4,4.75
+FC Girondins Bordeaux_RC Strasbourg Alsace,19.0,3,6.33
+FC Lorient_FC Nantes,19.0,3,6.33
+Swansea City_West Ham United,19.0,4,4.75
+Bologna FC 1909_US Sassuolo,19.0,4,4.75
+Atalanta BC_Palermo FC,19.0,4,4.75
+FC Girondins Bordeaux_FC Toulouse,19.0,4,4.75
+AS Monaco_ESTAC Troyes,19.0,4,4.75
+ESTAC Troyes_Olympique Marseille,19.0,4,4.75
+Aston Villa_Sunderland AFC,19.0,4,4.75
+Málaga CF_Valencia CF,19.0,4,4.75
+Athletic Bilbao_RCD Espanyol Barcelona,19.0,4,4.75
+Sunderland AFC_Swansea City,18.0,4,4.5
+Bayer 04 Leverkusen_FC Schalke 04,18.0,4,4.5
+FC Nantes_Stade Brestois 29,18.0,4,4.5
+FC Empoli_SS Lazio,18.0,4,4.5
+Spezia Calcio_US Sassuolo,18.0,4,4.5
+Athletic Bilbao_Deportivo de La Coruña,18.0,4,4.5
+Cardiff City_Liverpool FC,18.0,3,6.0
+Athletic Bilbao_Cádiz CF,18.0,4,4.5
+Chelsea FC_Crystal Palace,18.0,4,4.5
+1.FC Nuremberg_TSG 1899 Hoffenheim,18.0,4,4.5
+Celta de Vigo_Deportivo Alavés,18.0,4,4.5
+Fulham FC_Manchester United,18.0,4,4.5
+Frosinone Calcio_SSC Napoli,18.0,4,4.5
+Stoke City_Swansea City,18.0,4,4.5
+FC Girondins Bordeaux_Stade Rennais FC,18.0,4,4.5
+RB Leipzig_SC Freiburg,18.0,4,4.5
+FC Empoli_Juventus FC,18.0,4,4.5
+Parma Calcio 1913_Torino FC,18.0,4,4.5
+SPAL_SS Lazio,18.0,3,6.0
+FC Nantes_Stade Rennais FC,18.0,4,4.5
+ACF Fiorentina_Chievo Verona,18.0,3,6.0
+Real Sociedad_Real Valladolid CF,18.0,4,4.5
+Hellas Verona_Parma Calcio 1913,18.0,4,4.5
+EA Guingamp_Olympique Marseille,18.0,4,4.5
+ESTAC Troyes_FC Lorient,18.0,4,4.5
+Málaga CF_Rayo Vallecano,18.0,4,4.5
+Dijon FCO_EA Guingamp,18.0,4,4.5
+Eintracht Frankfurt_Hannover 96,18.0,4,4.5
+Bologna FC 1909_Parma Calcio 1913,18.0,4,4.5
+Bologna FC 1909_Chievo Verona,18.0,4,4.5
+Everton FC_Manchester United,18.0,4,4.5
+Arsenal FC_Sunderland AFC,18.0,4,4.5
+Chievo Verona_SSC Napoli,18.0,4,4.5
+1.FSV Mainz 05_FC Schalke 04,18.0,4,4.5
+Granada CF_RCD Mallorca,18.0,3,6.0
+Inter Milan_Juventus FC,18.0,4,4.5
+Arsenal FC_Stoke City,18.0,4,4.5
+1.FC Union Berlin_1.FSV Mainz 05,18.0,4,4.5
+SS Lazio_Spezia Calcio,18.0,3,6.0
+Deportivo Alavés_Real Betis Balompié,18.0,4,4.5
+AS Roma_Benevento Calcio,18.0,3,6.0
+AS Saint-Étienne_Stade Rennais FC,17.0,4,4.25
+Borussia Mönchengladbach_Hamburger SV,17.0,4,4.25
+Aston Villa_Burnley FC,17.0,4,4.25
+Arsenal FC_West Bromwich Albion,17.0,4,4.25
+SS Lazio_Udinese Calcio,17.0,3,5.67
+FC Metz_Olympique Marseille,17.0,3,5.67
+Crystal Palace_Manchester United,17.0,4,4.25
+AS Saint-Étienne_LOSC Lille,17.0,4,4.25
+SC Bastia_Valenciennes FC,17.0,3,5.67
+Crystal Palace_Tottenham Hotspur,17.0,4,4.25
+SD Eibar_Valencia CF,17.0,4,4.25
+CA Osasuna_Real Sociedad,17.0,3,5.67
+Arsenal FC_Swansea City,17.0,4,4.25
+FC Toulouse_OGC Nice,17.0,3,5.67
+FC Metz_Stade Rennais FC,17.0,3,5.67
+AS Monaco_FC Girondins Bordeaux,17.0,4,4.25
+FC Nantes_RC Lens,17.0,4,4.25
+Borussia Dortmund_SC Paderborn 07,17.0,3,5.67
+FC Empoli_Torino FC,17.0,4,4.25
+AS Saint-Étienne_FC Metz,17.0,4,4.25
+FC Crotone_SS Lazio,17.0,4,4.25
+AFC Bournemouth_Brighton & Hove Albion,17.0,4,4.25
+ACF Fiorentina_FC Empoli,17.0,4,4.25
+Angers SCO_FC Girondins Bordeaux,17.0,4,4.25
+Parma Calcio 1913_US Sassuolo,17.0,4,4.25
+AFC Bournemouth_Newcastle United,17.0,4,4.25
+1.FC Union Berlin_Hertha BSC,17.0,4,4.25
+OGC Nice_Thonon Évian Grand Genève FC,17.0,4,4.25
+Fulham FC_Manchester City,17.0,3,5.67
+Fortuna Düsseldorf_SV Werder Bremen,17.0,4,4.25
+Newcastle United_Norwich City,17.0,3,5.67
+Granada CF_Málaga CF,17.0,4,4.25
+AC Milan_Cagliari Calcio,17.0,4,4.25
+Celta de Vigo_RCD Mallorca,17.0,3,5.67
+Girona FC_Real Sociedad,17.0,3,5.67
+Arsenal FC_Leeds United,16.0,3,5.33
+Atalanta BC_UC Sampdoria,16.0,4,4.0
+LOSC Lille_OGC Nice,16.0,4,4.0
+AS Saint-Étienne_Angers SCO,16.0,3,5.33
+Hellas Verona_Juventus FC,16.0,4,4.0
+Granada CF_Rayo Vallecano,16.0,4,4.0
+Nîmes Olympique_Olympique Lyon,16.0,3,5.33
+Granada CF_Valencia CF,16.0,4,4.0
+Athletic Bilbao_Granada CF,16.0,4,4.0
+Hellas Verona_Udinese Calcio,16.0,4,4.0
+FC Toulouse_LOSC Lille,16.0,3,5.33
+Hannover 96_Hertha BSC,16.0,4,4.0
+Aston Villa_Chelsea FC,16.0,3,5.33
+Getafe CF_Villarreal CF,16.0,4,4.0
+Atalanta BC_FC Crotone,16.0,3,5.33
+Granada CF_UD Las Palmas,16.0,3,5.33
+Southampton FC_Sunderland AFC,16.0,3,5.33
+FC Lorient_Montpellier HSC,16.0,3,5.33
+Cardiff City_Manchester City,16.0,3,5.33
+Eintracht Frankfurt_Fortuna Düsseldorf,16.0,3,5.33
+Atlético de Madrid_Villarreal CF,16.0,4,4.0
+Burnley FC_Tottenham Hotspur,16.0,3,5.33
+ACF Fiorentina_Palermo FC,16.0,3,5.33
+Atlético de Madrid_Real Madrid,16.0,4,4.0
+RCD Espanyol Barcelona_SD Eibar,16.0,3,5.33
+RCD Mallorca_Real Valladolid CF,16.0,3,5.33
+Crystal Palace_Newcastle United,16.0,3,5.33
+Burnley FC_West Bromwich Albion,16.0,4,4.0
+Deportivo Alavés_Villarreal CF,16.0,3,5.33
+AFC Bournemouth_Crystal Palace,16.0,3,5.33
+Brighton & Hove Albion_Southampton FC,16.0,4,4.0
+Celta de Vigo_Getafe CF,16.0,4,4.0
+Palermo FC_SS Lazio,16.0,3,5.33
+Bayer 04 Leverkusen_Hamburger SV,16.0,3,5.33
+1.FSV Mainz 05_Hertha BSC,16.0,4,4.0
+Angers SCO_Stade Reims,15.0,3,5.0
+Girona FC_Real Madrid,15.0,2,7.5
+Atalanta BC_Chievo Verona,15.0,3,5.0
+Southampton FC_Watford FC,15.0,3,5.0
+Manchester United_Stoke City,15.0,3,5.0
+Borussia Mönchengladbach_SV Darmstadt 98,15.0,3,5.0
+Manchester United_Watford FC,15.0,3,5.0
+AC Ajaccio_Stade Rennais FC,15.0,3,5.0
+RCD Espanyol Barcelona_UD Las Palmas,15.0,3,5.0
+ACF Fiorentina_Juventus FC,15.0,3,5.0
+ACF Fiorentina_Bologna FC 1909,15.0,3,5.0
+Aston Villa_Watford FC,15.0,3,5.0
+AS Monaco_Nîmes Olympique,15.0,3,5.0
+Bologna FC 1909_US Lecce,15.0,3,5.0
+Hamburger SV_VfB Stuttgart,15.0,3,5.0
+Delfino Pescara 1936_UC Sampdoria,15.0,3,5.0
+ESTAC Troyes_OGC Nice,15.0,3,5.0
+Deportivo Alavés_Granada CF,15.0,3,5.0
+Borussia Dortmund_SpVgg Greuther Fürth,15.0,3,5.0
+Dijon FCO_Stade Rennais FC,15.0,3,5.0
+AC Ajaccio_FC Toulouse,15.0,3,5.0
+SpVgg Greuther Fürth_TSG 1899 Hoffenheim,15.0,2,7.5
+Leeds United_Manchester City,15.0,3,5.0
+Genoa CFC_Parma Calcio 1913,15.0,3,5.0
+FC Crotone_Torino FC,15.0,3,5.0
+FC Girondins Bordeaux_OGC Nice,15.0,3,5.0
+AS Roma_SPAL,15.0,3,5.0
+AS Saint-Étienne_RC Lens,15.0,3,5.0
+Fortuna Düsseldorf_Hertha BSC,15.0,3,5.0
+Paris Saint-Germain_Stade Brestois 29,15.0,3,5.0
+Parma Calcio 1913_UC Sampdoria,15.0,3,5.0
+AFC Bournemouth_Leicester City,15.0,3,5.0
+AS Roma_Parma Calcio 1913,15.0,3,5.0
+1.FC Nuremberg_Hannover 96,15.0,3,5.0
+Queens Park Rangers_West Bromwich Albion,15.0,3,5.0
+OGC Nice_Stade Brestois 29,15.0,3,5.0
+Sunderland AFC_Tottenham Hotspur,15.0,3,5.0
+FC Metz_OGC Nice,15.0,3,5.0
+Athletic Bilbao_SD Eibar,15.0,3,5.0
+FC Schalke 04_Hertha BSC,15.0,3,5.0
+VfB Stuttgart_VfL Bochum,15.0,3,5.0
+SM Caen_Stade Reims,14.0,3,4.67
+Hull City_Newcastle United,14.0,3,4.67
+AS Saint-Étienne_RC Strasbourg Alsace,14.0,3,4.67
+CD Leganés_FC Barcelona,14.0,3,4.67
+CD Leganés_Real Betis Balompié,14.0,3,4.67
+CA Osasuna_Real Betis Balompié,14.0,3,4.67
+SC Paderborn 07_SV Werder Bremen,14.0,3,4.67
+1.FSV Mainz 05_VfL Wolfsburg,14.0,3,4.67
+Inter Milan_Parma Calcio 1913,14.0,3,4.67
+Delfino Pescara 1936_SSC Napoli,14.0,3,4.67
+SSC Napoli_US Lecce,14.0,3,4.67
+AS Saint-Étienne_Stade Brestois 29,14.0,3,4.67
+Manchester City_Queens Park Rangers,14.0,3,4.67
+Stade Reims_Thonon Évian Grand Genève FC,14.0,3,4.67
+Burnley FC_Leicester City,14.0,3,4.67
+Stade Rennais FC_Thonon Évian Grand Genève FC,14.0,2,7.0
+LOSC Lille_Nîmes Olympique,14.0,3,4.67
+Celta de Vigo_Real Valladolid CF,14.0,3,4.67
+LOSC Lille_Montpellier HSC,14.0,3,4.67
+1.FC Union Berlin_Bayer 04 Leverkusen,14.0,3,4.67
+Angers SCO_FC Toulouse,14.0,3,4.67
+Angers SCO_FC Lorient,14.0,3,4.67
+Tottenham Hotspur_Wolverhampton Wanderers,14.0,3,4.67
+Manchester United_West Bromwich Albion,14.0,2,7.0
+SV Darmstadt 98_SV Werder Bremen,14.0,3,4.67
+Chelsea FC_Manchester City,14.0,3,4.67
+1.FSV Mainz 05_Hannover 96,14.0,3,4.67
+Inter Milan_US Salernitana 1919,14.0,3,4.67
+Dijon FCO_FC Nantes,14.0,3,4.67
+Athletic Bilbao_Rayo Vallecano,14.0,3,4.67
+Real Sociedad_Sporting Gijón,14.0,3,4.67
+ACF Fiorentina_Parma Calcio 1913,14.0,3,4.67
+Getafe CF_Real Betis Balompié,14.0,3,4.67
+Getafe CF_RCD Mallorca,14.0,3,4.67
+Bayer 04 Leverkusen_SC Paderborn 07,14.0,3,4.67
+Atalanta BC_Hellas Verona,14.0,3,4.67
+Nîmes Olympique_Stade Rennais FC,14.0,3,4.67
+Bayer 04 Leverkusen_Fortuna Düsseldorf,14.0,3,4.67
+RC Lens_Stade Reims,14.0,2,7.0
+AFC Bournemouth_Southampton FC,14.0,3,4.67
+OGC Nice_SM Caen,14.0,3,4.67
+RC Lens_Stade Brestois 29,14.0,3,4.67
+RB Leipzig_VfB Stuttgart,14.0,3,4.67
+FC Crotone_UC Sampdoria,14.0,3,4.67
+RB Leipzig_SV Werder Bremen,14.0,3,4.67
+Atlético de Madrid_RCD Espanyol Barcelona,14.0,3,4.67
+Frosinone Calcio_US Sassuolo,14.0,3,4.67
+FC Empoli_Udinese Calcio,14.0,3,4.67
+Atlético de Madrid_Málaga CF,14.0,3,4.67
+Parma Calcio 1913_SS Lazio,14.0,3,4.67
+FC Toulouse_Stade Brestois 29,14.0,3,4.67
+FC Toulouse_RC Strasbourg Alsace,14.0,3,4.67
+Athletic Bilbao_CA Osasuna,14.0,3,4.67
+Atlético de Madrid_Getafe CF,14.0,2,7.0
+Olympique Marseille_Stade Brestois 29,14.0,3,4.67
+Athletic Bilbao_UD Las Palmas,14.0,3,4.67
+Athletic Bilbao_Elche CF,14.0,3,4.67
+Nîmes Olympique_RC Strasbourg Alsace,14.0,3,4.67
+Atalanta BC_FC Empoli,14.0,3,4.67
+FC Augsburg_VfL Bochum,14.0,3,4.67
+Real Betis Balompié_UD Almería,14.0,3,4.67
+Borussia Mönchengladbach_Hannover 96,14.0,3,4.67
+EA Guingamp_FC Nantes,14.0,3,4.67
+Málaga CF_Real Sociedad,14.0,3,4.67
+FC Schalke 04_Fortuna Düsseldorf,14.0,3,4.67
+Real Madrid_UD Las Palmas,14.0,3,4.67
+ESTAC Troyes_LOSC Lille,14.0,3,4.67
+AC Milan_Catania FC,14.0,3,4.67
+ESTAC Troyes_Stade Reims,14.0,3,4.67
+AS Monaco_Clermont Foot 63,14.0,3,4.67
+FC Girondins Bordeaux_FC Metz,14.0,3,4.67
+Bologna FC 1909_Hellas Verona,14.0,3,4.67
+Aston Villa_West Ham United,14.0,3,4.67
+Elche CF_Real Madrid,14.0,3,4.67
+RC Strasbourg Alsace_Stade Brestois 29,13.0,3,4.33
+Olympique Marseille_RC Lens,13.0,3,4.33
+Málaga CF_RCD Espanyol Barcelona,13.0,3,4.33
+AC Milan_US Lecce,13.0,3,4.33
+Liverpool FC_West Bromwich Albion,13.0,3,4.33
+AC Ajaccio_AS Monaco,13.0,2,6.5
+Real Sociedad_SD Eibar,13.0,3,4.33
+Manchester United_Swansea City,13.0,3,4.33
+AFC Bournemouth_Burnley FC,13.0,3,4.33
+Valencia CF_Villarreal CF,13.0,3,4.33
+SD Eibar_Villarreal CF,13.0,3,4.33
+US Sassuolo_Udinese Calcio,13.0,3,4.33
+1.FC Köln_VfB Stuttgart,13.0,3,4.33
+Montpellier HSC_SM Caen,13.0,3,4.33
+1.FC Union Berlin_Eintracht Frankfurt,13.0,2,6.5
+Real Betis Balompié_SD Eibar,13.0,3,4.33
+1.FC Nuremberg_Borussia Mönchengladbach,13.0,3,4.33
+AS Roma_Catania FC,13.0,3,4.33
+AC Ajaccio_LOSC Lille,13.0,3,4.33
+Southampton FC_Wolverhampton Wanderers,13.0,3,4.33
+Nîmes Olympique_Olympique Marseille,13.0,3,4.33
+AS Roma_Frosinone Calcio,13.0,3,4.33
+AC Milan_SPAL,13.0,3,4.33
+RB Leipzig_VfL Wolfsburg,13.0,3,4.33
+SM Caen_Stade Rennais FC,13.0,3,4.33
+AC Milan_Palermo FC,13.0,3,4.33
+AS Roma_FC Crotone,13.0,3,4.33
+AS Monaco_Dijon FCO,13.0,3,4.33
+Cagliari Calcio_FC Empoli,13.0,3,4.33
+Chievo Verona_Inter Milan,13.0,3,4.33
+FC Nantes_Stade Reims,13.0,3,4.33
+Dijon FCO_OGC Nice,13.0,3,4.33
+Hertha BSC_VfB Stuttgart,13.0,3,4.33
+Hertha BSC_SC Freiburg,13.0,3,4.33
+FC Lorient_Stade Rennais FC,13.0,3,4.33
+Aston Villa_Crystal Palace,13.0,3,4.33
+Crystal Palace_Fulham FC,13.0,3,4.33
+FC Metz_RC Lens,13.0,3,4.33
+Chievo Verona_Udinese Calcio,13.0,3,4.33
+Hannover 96_SC Freiburg,13.0,3,4.33
+Chievo Verona_Juventus FC,13.0,3,4.33
+Hamburger SV_SV Werder Bremen,13.0,3,4.33
+FC Nantes_RC Strasbourg Alsace,13.0,3,4.33
+Bologna FC 1909_Juventus FC,13.0,3,4.33
+Arsenal FC_Hull City,13.0,3,4.33
+Athletic Bilbao_Celta de Vigo,13.0,3,4.33
+Celta de Vigo_Deportivo de La Coruña,13.0,3,4.33
+CA Osasuna_RCD Mallorca,13.0,3,4.33
+Bayer 04 Leverkusen_SpVgg Greuther Fürth,13.0,2,6.5
+Genoa CFC_UC Sampdoria,13.0,3,4.33
+Eintracht Frankfurt_SC Paderborn 07,13.0,3,4.33
+Chievo Verona_Hellas Verona,13.0,3,4.33
+Atalanta BC_US Lecce,13.0,2,6.5
+FC Toulouse_SC Bastia,13.0,3,4.33
+FC Toulouse_Stade Reims,13.0,3,4.33
+Fulham FC_Sunderland AFC,13.0,3,4.33
+Fulham FC_Southampton FC,13.0,3,4.33
+Everton FC_Southampton FC,13.0,3,4.33
+Atlético de Madrid_CA Osasuna,13.0,3,4.33
+Burnley FC_Southampton FC,13.0,3,4.33
+Celta de Vigo_SD Eibar,13.0,3,4.33
+AS Saint-Étienne_FC Toulouse,13.0,3,4.33
+AS Saint-Étienne_Montpellier HSC,13.0,3,4.33
+AS Saint-Étienne_FC Nantes,13.0,3,4.33
+Córdoba CF_FC Barcelona,13.0,2,6.5
+Deportivo Alavés_Getafe CF,13.0,3,4.33
+Everton FC_Wolverhampton Wanderers,13.0,3,4.33
+Levante UD_Málaga CF,13.0,3,4.33
+FC Crotone_Genoa CFC,13.0,3,4.33
+Angers SCO_Dijon FCO,13.0,3,4.33
+FC Empoli_Inter Milan,13.0,2,6.5
+Arsenal FC_Burnley FC,13.0,3,4.33
+Leeds United_West Ham United,13.0,3,4.33
+Celta de Vigo_SD Huesca,13.0,2,6.5
+Bologna FC 1909_Spezia Calcio,13.0,3,4.33
+Brighton & Hove Albion_Chelsea FC,13.0,3,4.33
+FC Girondins Bordeaux_FC Sochaux-Montbéliard,13.0,3,4.33
+Deportivo de La Coruña_Real Zaragoza,13.0,2,6.5
+Angers SCO_RC Strasbourg Alsace,13.0,3,4.33
+Angers SCO_Stade Brestois 29,13.0,3,4.33
+Chievo Verona_FC Empoli,12.0,3,4.0
+Fortuna Düsseldorf_VfL Wolfsburg,12.0,2,6.0
+AFC Bournemouth_Leeds United,12.0,2,6.0
+Benevento Calcio_Udinese Calcio,12.0,2,6.0
+TSG 1899 Hoffenheim_VfL Bochum,12.0,2,6.0
+Sheffield United_Tottenham Hotspur,12.0,3,4.0
+Bayern Munich_SV Darmstadt 98,12.0,2,6.0
+Athletic Bilbao_Sevilla FC,12.0,3,4.0
+Atlético de Madrid_Real Valladolid CF,12.0,2,6.0
+Elche CF_Valencia CF,12.0,3,4.0
+FC Girondins Bordeaux_FC Nantes,12.0,2,6.0
+Parma Calcio 1913_SSC Napoli,12.0,3,4.0
+Everton FC_West Bromwich Albion,12.0,2,6.0
+RB Leipzig_SpVgg Greuther Fürth,12.0,2,6.0
+Elche CF_RCD Espanyol Barcelona,12.0,3,4.0
+1.FC Nuremberg_Hertha BSC,12.0,3,4.0
+FC Girondins Bordeaux_Nîmes Olympique,12.0,2,6.0
+Liverpool FC_Sunderland AFC,12.0,3,4.0
+CA Osasuna_Levante UD,12.0,3,4.0
+Deportivo de La Coruña_Levante UD,12.0,3,4.0
+Real Valladolid CF_SD Huesca,12.0,3,4.0
+Angers SCO_Stade Rennais FC,12.0,2,6.0
+Angers SCO_RC Lens,12.0,3,4.0
+Brentford FC_Tottenham Hotspur,12.0,3,4.0
+Deportivo de La Coruña_Rayo Vallecano,12.0,3,4.0
+Brentford FC_Newcastle United,12.0,2,6.0
+Deportivo Alavés_Valencia CF,12.0,3,4.0
+Arsenal FC_Reading FC,12.0,2,6.0
+Leicester City_Stoke City,12.0,3,4.0
+Leicester City_Watford FC,12.0,2,6.0
+Amiens SC_RC Strasbourg Alsace,12.0,3,4.0
+Amiens SC_Olympique Marseille,12.0,3,4.0
+Liverpool FC_Wolverhampton Wanderers,12.0,3,4.0
+AS Roma_US Salernitana 1919,12.0,3,4.0
+Fulham FC_Leeds United,12.0,2,6.0
+Chelsea FC_Leicester City,12.0,3,4.0
+AC Milan_Frosinone Calcio,12.0,2,6.0
+Fulham FC_Leicester City,12.0,2,6.0
+Montpellier HSC_SC Bastia,12.0,3,4.0
+Fulham FC_Reading FC,12.0,2,6.0
+Huddersfield Town_West Ham United,12.0,2,6.0
+EA Guingamp_FC Metz,12.0,3,4.0
+Clermont Foot 63_RC Lens,12.0,3,4.0
+AS Monaco_Angers SCO,12.0,3,4.0
+Fulham FC_West Ham United,12.0,3,4.0
+1.FC Köln_SV Darmstadt 98,12.0,2,6.0
+1.FC Nuremberg_FC Schalke 04,12.0,2,6.0
+Catania FC_SS Lazio,12.0,3,4.0
+Bologna FC 1909_Udinese Calcio,12.0,3,4.0
+Real Sociedad_UD Almería,11.0,2,5.5
+Benevento Calcio_Inter Milan,11.0,2,5.5
+Deportivo Alavés_Sevilla FC,11.0,2,5.5
+Brentford FC_Leeds United,11.0,2,5.5
+Brighton & Hove Albion_Leicester City,11.0,2,5.5
+Chelsea FC_Wolverhampton Wanderers,11.0,2,5.5
+Crystal Palace_Leeds United,11.0,2,5.5
+1.FC Union Berlin_Bayern Munich,11.0,2,5.5
+Real Madrid_Sporting Gijón,11.0,2,5.5
+Everton FC_Stoke City,11.0,2,5.5
+Chievo Verona_Genoa CFC,11.0,2,5.5
+Deportivo de La Coruña_Valencia CF,11.0,2,5.5
+1.FC Nuremberg_SC Freiburg,11.0,2,5.5
+Bayer 04 Leverkusen_SV Darmstadt 98,11.0,2,5.5
+Genoa CFC_Palermo FC,11.0,2,5.5
+Granada CF_SD Huesca,11.0,2,5.5
+Norwich City_Swansea City,11.0,2,5.5
+Atlético de Madrid_UD Las Palmas,11.0,2,5.5
+Aston Villa_Queens Park Rangers,11.0,2,5.5
+Aston Villa_Norwich City,11.0,2,5.5
+Hellas Verona_Venezia FC,11.0,2,5.5
+Montpellier HSC_RC Lens,11.0,2,5.5
+AS Monaco_Stade Brestois 29,11.0,2,5.5
+Arminia Bielefeld_Bayern Munich,11.0,2,5.5
+CA Osasuna_UD Las Palmas,11.0,2,5.5
+Manchester United_Sheffield United,11.0,2,5.5
+Leeds United_Newcastle United,11.0,2,5.5
+Leeds United_Wolverhampton Wanderers,11.0,2,5.5
+Leicester City_Queens Park Rangers,11.0,2,5.5
+Leicester City_Wolverhampton Wanderers,11.0,2,5.5
+AS Roma_Spezia Calcio,11.0,2,5.5
+Levante UD_Villarreal CF,11.0,2,5.5
+Getafe CF_Real Sociedad,11.0,2,5.5
+Cardiff City_Watford FC,11.0,2,5.5
+Frosinone Calcio_Torino FC,11.0,2,5.5
+AFC Bournemouth_Hull City,11.0,2,5.5
+FC Crotone_SSC Napoli,11.0,2,5.5
+Celta de Vigo_Valencia CF,11.0,2,5.5
+1.FC Nuremberg_SV Werder Bremen,11.0,2,5.5
+Athletic Bilbao_UD Almería,11.0,2,5.5
+1.FSV Mainz 05_VfL Bochum,11.0,2,5.5
+Olympique Lyon_Stade Reims,11.0,2,5.5
+Olympique Marseille_SC Bastia,11.0,2,5.5
+UD Las Palmas_Valencia CF,10.0,2,5.0
+Burnley FC_Newcastle United,10.0,2,5.0
+Cádiz CF_Rayo Vallecano,10.0,2,5.0
+Burnley FC_Liverpool FC,10.0,2,5.0
+Brentford FC_Liverpool FC,10.0,2,5.0
+Chelsea FC_Reading FC,10.0,2,5.0
+Cesena FC_Torino FC,10.0,2,5.0
+Cesena FC_SSC Napoli,10.0,2,5.0
+SS Lazio_US Lecce,10.0,2,5.0
+CD Leganés_Real Valladolid CF,10.0,2,5.0
+VfL Bochum_VfL Wolfsburg,10.0,2,5.0
+Sunderland AFC_West Bromwich Albion,10.0,2,5.0
+Cádiz CF_Villarreal CF,10.0,2,5.0
+Burnley FC_West Ham United,10.0,2,5.0
+Cardiff City_Chelsea FC,10.0,2,5.0
+Tottenham Hotspur_West Bromwich Albion,10.0,2,5.0
+Sevilla FC_UD Almería,10.0,2,5.0
+Cardiff City_Fulham FC,10.0,2,5.0
+Cardiff City_Manchester United,10.0,2,5.0
+Crystal Palace_Hull City,10.0,2,5.0
+Torino FC_US Livorno 1915,10.0,2,5.0
+US Lecce_US Sassuolo,10.0,2,5.0
+Brighton & Hove Albion_Fulham FC,10.0,2,5.0
+Southampton FC_Stoke City,10.0,2,5.0
+CA Osasuna_Cádiz CF,10.0,2,5.0
+RCD Espanyol Barcelona_Real Valladolid CF,10.0,2,5.0
+SPAL_Udinese Calcio,10.0,2,5.0
+AJ Auxerre_AS Monaco,10.0,2,5.0
+Queens Park Rangers_Swansea City,10.0,2,5.0
+FC Empoli_SPAL,10.0,2,5.0
+FC Empoli_US Salernitana 1919,10.0,2,5.0
+FC Girondins Bordeaux_LOSC Lille,10.0,2,5.0
+Paris Saint-Germain_Thonon Évian Grand Genève FC,10.0,2,5.0
+FC Girondins Bordeaux_RC Lens,10.0,2,5.0
+FC Girondins Bordeaux_Stade Brestois 29,10.0,2,5.0
+FC Lorient_SC Bastia,10.0,2,5.0
+Palermo FC_SSC Napoli,10.0,2,5.0
+FC Sochaux-Montbéliard_Paris Saint-Germain,10.0,2,5.0
+Fulham FC_Hull City,10.0,2,5.0
+Atalanta BC_US Salernitana 1919,10.0,1,10.0
+Nîmes Olympique_Paris Saint-Germain,10.0,2,5.0
+Delfino Pescara 1936_Genoa CFC,10.0,2,5.0
+Girona FC_SD Eibar,10.0,2,5.0
+Granada CF_Sporting Gijón,10.0,2,5.0
+Norwich City_Watford FC,10.0,2,5.0
+Hamburger SV_Hannover 96,10.0,2,5.0
+Hannover 96_RB Leipzig,10.0,2,5.0
+Aston Villa_Newcastle United,10.0,2,5.0
+Hull City_Liverpool FC,10.0,2,5.0
+Hull City_Manchester City,10.0,2,5.0
+Juventus FC_Spezia Calcio,10.0,2,5.0
+LOSC Lille_Olympique Marseille,10.0,2,5.0
+LOSC Lille_SM Caen,10.0,2,5.0
+AS Roma_Delfino Pescara 1936,10.0,2,5.0
+FC Empoli_Parma Calcio 1913,10.0,2,5.0
+FC Crotone_US Sassuolo,10.0,2,5.0
+FC Crotone_Spezia Calcio,10.0,2,5.0
+FC Barcelona_UD Las Palmas,10.0,2,5.0
+SC Paderborn 07_VfL Wolfsburg,10.0,2,5.0
+Brentford FC_Fulham FC,10.0,2,5.0
+AC Ajaccio_AS Saint-Étienne,10.0,2,5.0
+Borussia Mönchengladbach_SpVgg Greuther Fürth,10.0,2,5.0
+Dijon FCO_FC Lorient,10.0,2,5.0
+AC Ajaccio_RC Strasbourg Alsace,10.0,2,5.0
+Borussia Dortmund_SV Darmstadt 98,10.0,2,5.0
+Borussia Dortmund_Fortuna Düsseldorf,10.0,2,5.0
+AC Carpi_AS Roma,10.0,2,5.0
+EA Guingamp_SC Bastia,10.0,2,5.0
+ESTAC Troyes_Montpellier HSC,10.0,2,5.0
+Borussia Dortmund_FC Ingolstadt 04,10.0,2,5.0
+Real Madrid_SD Huesca,10.0,2,5.0
+ESTAC Troyes_Stade Brestois 29,10.0,2,5.0
+Real Betis Balompié_Villarreal CF,10.0,2,5.0
+Eintracht Braunschweig_Hamburger SV,10.0,2,5.0
+Bologna FC 1909_FC Crotone,10.0,2,5.0
+Bologna FC 1909_Cagliari Calcio,10.0,2,5.0
+RCD Mallorca_Villarreal CF,10.0,2,5.0
+Benevento Calcio_UC Sampdoria,10.0,2,5.0
+ACF Fiorentina_Delfino Pescara 1936,10.0,2,5.0
+RCD Espanyol Barcelona_UD Almería,10.0,2,5.0
+Benevento Calcio_FC Crotone,10.0,2,5.0
+ACF Fiorentina_US Salernitana 1919,10.0,2,5.0
+Atlético de Madrid_Sporting Gijón,10.0,2,5.0
+Dijon FCO_FC Metz,10.0,2,5.0

@@ -1,0 +1,307 @@
+Match Number,Round Number,Date,Location,Home Team,Away Team,Result
+1,1,18/08/2023 14:30,wohninvest WESERSTADION,SV Werder Bremen,FC Bayern München,0 - 4
+2,1,19/08/2023 09:30,Mercedes-Benz Arena,VfB Stuttgart,VfL Bochum 1848,5 - 0
+3,1,19/08/2023 09:30,WWK ARENA,FC Augsburg,Borussia Mönchengladbach,4 - 4
+4,1,19/08/2023 09:30,PreZero Arena,TSG Hoffenheim,Sport-Club Freiburg,1 - 2
+5,1,19/08/2023 09:30,Volkswagen Arena,VfL Wolfsburg,1. FC Heidenheim 1846,2 - 0
+7,1,19/08/2023 09:30,BayArena,Bayer 04 Leverkusen,RB Leipzig,3 - 2
+9,1,19/08/2023 12:30,SIGNAL IDUNA PARK,Borussia Dortmund,1. FC Köln,1 - 0
+8,1,20/08/2023 09:30,An der Alten Försterei,1. FC Union Berlin,1. FSV Mainz 05,4 - 1
+6,1,20/08/2023 11:30,Deutsche Bank Park,Eintracht Frankfurt,SV Darmstadt 98,1 - 0
+17,2,25/08/2023 14:30,Red Bull Arena,RB Leipzig,VfB Stuttgart,5 - 1
+10,2,26/08/2023 09:30,Merck-Stadion am Böllenfalltor,SV Darmstadt 98,1. FC Union Berlin,1 - 4
+11,2,26/08/2023 09:30,Voith-Arena,1. FC Heidenheim 1846,TSG Hoffenheim,2 - 3
+12,2,26/08/2023 09:30,Vonovia Ruhrstadion,VfL Bochum 1848,Borussia Dortmund,1 - 1
+13,2,26/08/2023 09:30,RheinEnergieSTADION,1. FC Köln,VfL Wolfsburg,1 - 2
+16,2,26/08/2023 09:30,Europa-Park Stadion,Sport-Club Freiburg,SV Werder Bremen,1 - 0
+14,2,26/08/2023 12:30,BORUSSIA-PARK,Borussia Mönchengladbach,Bayer 04 Leverkusen,0 - 3
+15,2,27/08/2023 09:30,MEWA ARENA,1. FSV Mainz 05,Eintracht Frankfurt,1 - 1
+18,2,27/08/2023 11:30,Allianz Arena,FC Bayern München,FC Augsburg,3 - 1
+27,3,01/09/2023 14:30,SIGNAL IDUNA PARK,Borussia Dortmund,1. FC Heidenheim 1846,2 - 2
+19,3,02/09/2023 09:30,Mercedes-Benz Arena,VfB Stuttgart,Sport-Club Freiburg,5 - 0
+20,3,02/09/2023 09:30,WWK ARENA,FC Augsburg,VfL Bochum 1848,2 - 2
+21,3,02/09/2023 09:30,wohninvest WESERSTADION,SV Werder Bremen,1. FSV Mainz 05,4 - 0
+22,3,02/09/2023 09:30,PreZero Arena,TSG Hoffenheim,VfL Wolfsburg,3 - 1
+25,3,02/09/2023 09:30,BayArena,Bayer 04 Leverkusen,SV Darmstadt 98,5 - 1
+23,3,02/09/2023 12:30,BORUSSIA-PARK,Borussia Mönchengladbach,FC Bayern München,1 - 2
+24,3,03/09/2023 09:30,Deutsche Bank Park,Eintracht Frankfurt,1. FC Köln,1 - 1
+26,3,03/09/2023 11:30,An der Alten Försterei,1. FC Union Berlin,RB Leipzig,0 - 3
+36,4,15/09/2023 14:30,Allianz Arena,FC Bayern München,Bayer 04 Leverkusen,2 - 2
+31,4,16/09/2023 09:30,RheinEnergieSTADION,1. FC Köln,TSG Hoffenheim,1 - 3
+32,4,16/09/2023 09:30,MEWA ARENA,1. FSV Mainz 05,VfB Stuttgart,1 - 3
+33,4,16/09/2023 09:30,Volkswagen Arena,VfL Wolfsburg,1. FC Union Berlin,2 - 1
+34,4,16/09/2023 09:30,Europa-Park Stadion,Sport-Club Freiburg,Borussia Dortmund,2 - 4
+35,4,16/09/2023 09:30,Red Bull Arena,RB Leipzig,FC Augsburg,3 - 0
+30,4,16/09/2023 12:30,Vonovia Ruhrstadion,VfL Bochum 1848,Eintracht Frankfurt,1 - 1
+29,4,17/09/2023 09:30,Voith-Arena,1. FC Heidenheim 1846,SV Werder Bremen,4 - 2
+28,4,17/09/2023 11:30,Merck-Stadion am Böllenfalltor,SV Darmstadt 98,Borussia Mönchengladbach,3 - 3
+37,5,22/09/2023 14:30,Mercedes-Benz Arena,VfB Stuttgart,SV Darmstadt 98,3 - 1
+38,5,23/09/2023 09:30,WWK ARENA,FC Augsburg,1. FSV Mainz 05,2 - 1
+40,5,23/09/2023 09:30,BORUSSIA-PARK,Borussia Mönchengladbach,RB Leipzig,0 - 1
+43,5,23/09/2023 09:30,An der Alten Försterei,1. FC Union Berlin,TSG Hoffenheim,0 - 2
+44,5,23/09/2023 09:30,SIGNAL IDUNA PARK,Borussia Dortmund,VfL Wolfsburg,1 - 0
+45,5,23/09/2023 09:30,Allianz Arena,FC Bayern München,VfL Bochum 1848,7 - 0
+39,5,23/09/2023 12:30,wohninvest WESERSTADION,SV Werder Bremen,1. FC Köln,2 - 1
+42,5,24/09/2023 09:30,BayArena,Bayer 04 Leverkusen,1. FC Heidenheim 1846,4 - 1
+41,5,24/09/2023 11:30,Deutsche Bank Park,Eintracht Frankfurt,Sport-Club Freiburg,0 - 0
+49,6,29/09/2023 14:30,PreZero Arena,TSG Hoffenheim,Borussia Dortmund,1 - 3
+47,6,30/09/2023 09:30,Voith-Arena,1. FC Heidenheim 1846,1. FC Union Berlin,1 - 0
+48,6,30/09/2023 09:30,Vonovia Ruhrstadion,VfL Bochum 1848,Borussia Mönchengladbach,1 - 3
+50,6,30/09/2023 09:30,RheinEnergieSTADION,1. FC Köln,VfB Stuttgart,0 - 2
+51,6,30/09/2023 09:30,MEWA ARENA,1. FSV Mainz 05,Bayer 04 Leverkusen,0 - 3
+52,6,30/09/2023 09:30,Volkswagen Arena,VfL Wolfsburg,Eintracht Frankfurt,2 - 0
+54,6,30/09/2023 12:30,Red Bull Arena,RB Leipzig,FC Bayern München,2 - 2
+46,6,01/10/2023 09:30,Merck-Stadion am Böllenfalltor,SV Darmstadt 98,SV Werder Bremen,4 - 2
+53,6,01/10/2023 11:30,Europa-Park Stadion,Sport-Club Freiburg,FC Augsburg,2 - 0
+58,7,06/10/2023 14:30,BORUSSIA-PARK,Borussia Mönchengladbach,1. FSV Mainz 05,2 - 2
+55,7,07/10/2023 09:30,Mercedes-Benz Arena,VfB Stuttgart,VfL Wolfsburg,3 - 1
+56,7,07/10/2023 09:30,WWK ARENA,FC Augsburg,SV Darmstadt 98,1 - 2
+61,7,07/10/2023 09:30,Red Bull Arena,RB Leipzig,VfL Bochum 1848,0 - 0
+62,7,07/10/2023 09:30,SIGNAL IDUNA PARK,Borussia Dortmund,1. FC Union Berlin,4 - 2
+57,7,07/10/2023 12:30,wohninvest WESERSTADION,SV Werder Bremen,TSG Hoffenheim,2 - 3
+60,7,08/10/2023 09:30,BayArena,Bayer 04 Leverkusen,1. FC Köln,3 - 0
+63,7,08/10/2023 11:30,Allianz Arena,FC Bayern München,Sport-Club Freiburg,3 - 0
+59,7,08/10/2023 13:30,Deutsche Bank Park,Eintracht Frankfurt,1. FC Heidenheim 1846,2 - 0
+72,8,20/10/2023 14:30,SIGNAL IDUNA PARK,Borussia Dortmund,SV Werder Bremen,1 - 0
+64,8,21/10/2023 09:30,Merck-Stadion am Böllenfalltor,SV Darmstadt 98,RB Leipzig,1 - 3
+66,8,21/10/2023 09:30,PreZero Arena,TSG Hoffenheim,Eintracht Frankfurt,1 - 3
+69,8,21/10/2023 09:30,Volkswagen Arena,VfL Wolfsburg,Bayer 04 Leverkusen,1 - 2
+70,8,21/10/2023 09:30,Europa-Park Stadion,Sport-Club Freiburg,VfL Bochum 1848,2 - 1
+71,8,21/10/2023 09:30,An der Alten Försterei,1. FC Union Berlin,VfB Stuttgart,0 - 3
+68,8,21/10/2023 12:30,MEWA ARENA,1. FSV Mainz 05,FC Bayern München,1 - 3
+67,8,22/10/2023 09:30,RheinEnergieSTADION,1. FC Köln,Borussia Mönchengladbach,3 - 1
+65,8,22/10/2023 11:30,Voith-Arena,1. FC Heidenheim 1846,FC Augsburg,2 - 5
+75,9,27/10/2023 14:30,Vonovia Ruhrstadion,VfL Bochum 1848,1. FSV Mainz 05,2 - 2
+73,9,28/10/2023 09:30,Mercedes-Benz Arena,VfB Stuttgart,TSG Hoffenheim,2 - 3
+74,9,28/10/2023 09:30,WWK ARENA,FC Augsburg,VfL Wolfsburg,3 - 2
+76,9,28/10/2023 09:30,wohninvest WESERSTADION,SV Werder Bremen,1. FC Union Berlin,2 - 0
+77,9,28/10/2023 09:30,BORUSSIA-PARK,Borussia Mönchengladbach,1. FC Heidenheim 1846,2 - 1
+81,9,28/10/2023 09:30,Allianz Arena,FC Bayern München,SV Darmstadt 98,8 - 0
+80,9,28/10/2023 12:30,Red Bull Arena,RB Leipzig,1. FC Köln,6 - 0
+78,9,29/10/2023 10:30,Deutsche Bank Park,Eintracht Frankfurt,Borussia Dortmund,3 - 3
+79,9,29/10/2023 12:30,BayArena,Bayer 04 Leverkusen,Sport-Club Freiburg,2 - 1
+82,10,03/11/2023 15:30,Merck-Stadion am Böllenfalltor,SV Darmstadt 98,VfL Bochum 1848,1 - 2
+84,10,04/11/2023 10:30,PreZero Arena,TSG Hoffenheim,Bayer 04 Leverkusen,2 - 3
+85,10,04/11/2023 10:30,RheinEnergieSTADION,1. FC Köln,FC Augsburg,1 - 1
+86,10,04/11/2023 10:30,MEWA ARENA,1. FSV Mainz 05,RB Leipzig,2 - 0
+88,10,04/11/2023 10:30,Europa-Park Stadion,Sport-Club Freiburg,Borussia Mönchengladbach,3 - 3
+89,10,04/11/2023 10:30,An der Alten Försterei,1. FC Union Berlin,Eintracht Frankfurt,0 - 3
+90,10,04/11/2023 13:30,SIGNAL IDUNA PARK,Borussia Dortmund,FC Bayern München,0 - 4
+87,10,05/11/2023 09:30,Volkswagen Arena,VfL Wolfsburg,SV Werder Bremen,2 - 2
+83,10,05/11/2023 11:30,Voith-Arena,1. FC Heidenheim 1846,VfB Stuttgart,2 - 0
+96,11,10/11/2023 14:30,BORUSSIA-PARK,Borussia Mönchengladbach,VfL Wolfsburg,4 - 0
+91,11,11/11/2023 09:30,Merck-Stadion am Böllenfalltor,SV Darmstadt 98,1. FSV Mainz 05,0 - 0
+92,11,11/11/2023 09:30,Mercedes-Benz Arena,VfB Stuttgart,Borussia Dortmund,2 - 1
+93,11,11/11/2023 09:30,WWK ARENA,FC Augsburg,TSG Hoffenheim,1 - 1
+99,11,11/11/2023 09:30,Allianz Arena,FC Bayern München,1. FC Heidenheim 1846,4 - 2
+94,11,11/11/2023 12:30,Vonovia Ruhrstadion,VfL Bochum 1848,1. FC Köln,1 - 1
+97,11,12/11/2023 09:30,BayArena,Bayer 04 Leverkusen,1. FC Union Berlin,4 - 0
+95,11,12/11/2023 11:30,wohninvest WESERSTADION,SV Werder Bremen,Eintracht Frankfurt,2 - 2
+98,11,12/11/2023 13:30,Red Bull Arena,RB Leipzig,Sport-Club Freiburg,3 - 1
+103,12,24/11/2023 14:30,RheinEnergieSTADION,1. FC Köln,FC Bayern München,0 - 1
+101,12,25/11/2023 09:30,wohninvest WESERSTADION,SV Werder Bremen,Bayer 04 Leverkusen,
+104,12,25/11/2023 09:30,Volkswagen Arena,VfL Wolfsburg,RB Leipzig,
+106,12,25/11/2023 09:30,Europa-Park Stadion,Sport-Club Freiburg,SV Darmstadt 98,
+107,12,25/11/2023 09:30,An der Alten Försterei,1. FC Union Berlin,FC Augsburg,
+108,12,25/11/2023 09:30,SIGNAL IDUNA PARK,Borussia Dortmund,Borussia Mönchengladbach,
+105,12,25/11/2023 12:30,Deutsche Bank Park,Eintracht Frankfurt,VfB Stuttgart,
+100,12,26/11/2023 09:30,Voith-Arena,1. FC Heidenheim 1846,VfL Bochum 1848,
+102,12,26/11/2023 11:30,PreZero Arena,TSG Hoffenheim,1. FSV Mainz 05,
+109,13,01/12/2023 14:30,Merck-Stadion am Böllenfalltor,SV Darmstadt 98,1. FC Köln,
+112,13,02/12/2023 09:30,Vonovia Ruhrstadion,VfL Bochum 1848,VfL Wolfsburg,
+113,13,02/12/2023 09:30,BORUSSIA-PARK,Borussia Mönchengladbach,TSG Hoffenheim,
+116,13,02/12/2023 09:30,Red Bull Arena,RB Leipzig,1. FC Heidenheim 1846,
+117,13,02/12/2023 09:30,Allianz Arena,FC Bayern München,1. FC Union Berlin,
+110,13,02/12/2023 12:30,Mercedes-Benz Arena,VfB Stuttgart,SV Werder Bremen,
+114,13,03/12/2023 09:30,MEWA ARENA,1. FSV Mainz 05,Sport-Club Freiburg,
+115,13,03/12/2023 11:30,BayArena,Bayer 04 Leverkusen,Borussia Dortmund,
+111,13,03/12/2023 13:30,WWK ARENA,FC Augsburg,Eintracht Frankfurt,
+121,14,08/12/2023 14:30,PreZero Arena,TSG Hoffenheim,VfL Bochum 1848,
+118,14,09/12/2023 09:30,Voith-Arena,1. FC Heidenheim 1846,SV Darmstadt 98,
+120,14,09/12/2023 09:30,wohninvest WESERSTADION,SV Werder Bremen,FC Augsburg,
+123,14,09/12/2023 09:30,Volkswagen Arena,VfL Wolfsburg,Sport-Club Freiburg,
+124,14,09/12/2023 09:30,Deutsche Bank Park,Eintracht Frankfurt,FC Bayern München,
+125,14,09/12/2023 09:30,An der Alten Försterei,1. FC Union Berlin,Borussia Mönchengladbach,
+126,14,09/12/2023 12:30,SIGNAL IDUNA PARK,Borussia Dortmund,RB Leipzig,
+119,14,10/12/2023 09:30,Mercedes-Benz Arena,VfB Stuttgart,Bayer 04 Leverkusen,
+122,14,10/12/2023 11:30,RheinEnergieSTADION,1. FC Köln,1. FSV Mainz 05,
+130,15,15/12/2023 14:30,,Borussia Mönchengladbach,SV Werder Bremen,
+127,15,16/12/2023 09:30,Merck-Stadion am Böllenfalltor,SV Darmstadt 98,VfL Wolfsburg,
+128,15,16/12/2023 09:30,WWK ARENA,FC Augsburg,Borussia Dortmund,
+129,15,16/12/2023 09:30,Vonovia Ruhrstadion,VfL Bochum 1848,1. FC Union Berlin,
+131,15,16/12/2023 09:30,MEWA ARENA,1. FSV Mainz 05,1. FC Heidenheim 1846,
+134,15,16/12/2023 12:30,Red Bull Arena,RB Leipzig,TSG Hoffenheim,
+133,15,17/12/2023 09:30,Europa-Park Stadion,Sport-Club Freiburg,1. FC Köln,
+132,15,17/12/2023 11:30,BayArena,Bayer 04 Leverkusen,Eintracht Frankfurt,
+135,15,17/12/2023 13:30,Allianz Arena,FC Bayern München,VfB Stuttgart,
+138,16,19/12/2023 12:30,wohninvest WESERSTADION,SV Werder Bremen,RB Leipzig,
+139,16,19/12/2023 14:30,PreZero Arena,TSG Hoffenheim,SV Darmstadt 98,
+144,16,19/12/2023 14:30,SIGNAL IDUNA PARK,Borussia Dortmund,1. FSV Mainz 05,
+143,16,20/12/2023 12:30,An der Alten Försterei,1. FC Union Berlin,1. FC Köln,
+136,16,20/12/2023 14:30,Voith-Arena,1. FC Heidenheim 1846,Sport-Club Freiburg,
+137,16,20/12/2023 14:30,Mercedes-Benz Arena,VfB Stuttgart,FC Augsburg,
+140,16,20/12/2023 14:30,Volkswagen Arena,VfL Wolfsburg,FC Bayern München,
+141,16,20/12/2023 14:30,Deutsche Bank Park,Eintracht Frankfurt,Borussia Mönchengladbach,
+142,16,20/12/2023 14:30,BayArena,Bayer 04 Leverkusen,VfL Bochum 1848,
+153,17,12/01/2024 14:30,Allianz Arena,FC Bayern München,TSG Hoffenheim,
+146,17,13/01/2024 09:30,WWK ARENA,FC Augsburg,Bayer 04 Leverkusen,
+148,17,13/01/2024 09:30,RheinEnergieSTADION,1. FC Köln,1. FC Heidenheim 1846,
+150,17,13/01/2024 09:30,,1. FSV Mainz 05,VfL Wolfsburg,
+151,17,13/01/2024 09:30,Europa-Park Stadion,Sport-Club Freiburg,1. FC Union Berlin,
+152,17,13/01/2024 09:30,Red Bull Arena,RB Leipzig,Eintracht Frankfurt,
+145,17,13/01/2024 12:30,Merck-Stadion am Böllenfalltor,SV Darmstadt 98,Borussia Dortmund,
+147,17,14/01/2024 09:30,Vonovia Ruhrstadion,VfL Bochum 1848,SV Werder Bremen,
+149,17,14/01/2024 11:30,BORUSSIA-PARK,Borussia Mönchengladbach,VfB Stuttgart,
+159,18,19/01/2024 14:30,MEWA ARENA,1. FSV Mainz 05,1. FC Union Berlin,
+154,18,20/01/2024 09:30,Merck-Stadion am Böllenfalltor,SV Darmstadt 98,Eintracht Frankfurt,
+155,18,20/01/2024 09:30,Voith-Arena,1. FC Heidenheim 1846,VfL Wolfsburg,
+156,18,20/01/2024 09:30,Vonovia Ruhrstadion,VfL Bochum 1848,VfB Stuttgart,
+157,18,20/01/2024 09:30,RheinEnergieSTADION,1. FC Köln,Borussia Dortmund,
+160,18,20/01/2024 09:30,Europa-Park Stadion,Sport-Club Freiburg,TSG Hoffenheim,
+161,18,20/01/2024 12:30,Red Bull Arena,RB Leipzig,Bayer 04 Leverkusen,
+162,18,21/01/2024 09:30,Allianz Arena,FC Bayern München,SV Werder Bremen,
+158,18,21/01/2024 11:30,BORUSSIA-PARK,Borussia Mönchengladbach,FC Augsburg,
+163,19,27/01/2024 09:30,Mercedes-Benz Arena,VfB Stuttgart,RB Leipzig,
+164,19,27/01/2024 09:30,,FC Augsburg,FC Bayern München,
+165,19,27/01/2024 09:30,wohninvest WESERSTADION,SV Werder Bremen,Sport-Club Freiburg,
+166,19,27/01/2024 09:30,PreZero Arena,TSG Hoffenheim,1. FC Heidenheim 1846,
+167,19,27/01/2024 09:30,Volkswagen Arena,VfL Wolfsburg,1. FC Köln,
+168,19,27/01/2024 09:30,Deutsche Bank Park,Eintracht Frankfurt,1. FSV Mainz 05,
+169,19,27/01/2024 09:30,BayArena,Bayer 04 Leverkusen,Borussia Mönchengladbach,
+170,19,27/01/2024 09:30,An der Alten Försterei,1. FC Union Berlin,SV Darmstadt 98,
+171,19,27/01/2024 09:30,SIGNAL IDUNA PARK,Borussia Dortmund,VfL Bochum 1848,
+172,20,03/02/2024 09:30,Merck-Stadion am Böllenfalltor,SV Darmstadt 98,Bayer 04 Leverkusen,
+173,20,03/02/2024 09:30,Voith-Arena,1. FC Heidenheim 1846,Borussia Dortmund,
+174,20,03/02/2024 09:30,Vonovia Ruhrstadion,VfL Bochum 1848,FC Augsburg,
+175,20,03/02/2024 09:30,RheinEnergieSTADION,1. FC Köln,Eintracht Frankfurt,
+176,20,03/02/2024 09:30,MEWA ARENA,1. FSV Mainz 05,SV Werder Bremen,
+177,20,03/02/2024 09:30,Volkswagen Arena,VfL Wolfsburg,TSG Hoffenheim,
+178,20,03/02/2024 09:30,Europa-Park Stadion,Sport-Club Freiburg,VfB Stuttgart,
+179,20,03/02/2024 09:30,Red Bull Arena,RB Leipzig,1. FC Union Berlin,
+180,20,03/02/2024 09:30,Allianz Arena,FC Bayern München,Borussia Mönchengladbach,
+181,21,10/02/2024 09:30,Mercedes-Benz Arena,VfB Stuttgart,1. FSV Mainz 05,
+182,21,10/02/2024 09:30,WWK ARENA,FC Augsburg,RB Leipzig,
+183,21,10/02/2024 09:30,wohninvest WESERSTADION,SV Werder Bremen,1. FC Heidenheim 1846,
+184,21,10/02/2024 09:30,PreZero Arena,TSG Hoffenheim,1. FC Köln,
+185,21,10/02/2024 09:30,BORUSSIA-PARK,Borussia Mönchengladbach,SV Darmstadt 98,
+186,21,10/02/2024 09:30,Deutsche Bank Park,Eintracht Frankfurt,VfL Bochum 1848,
+187,21,10/02/2024 09:30,BayArena,Bayer 04 Leverkusen,FC Bayern München,
+188,21,10/02/2024 09:30,An der Alten Försterei,1. FC Union Berlin,VfL Wolfsburg,
+189,21,10/02/2024 09:30,SIGNAL IDUNA PARK,Borussia Dortmund,Sport-Club Freiburg,
+190,22,17/02/2024 09:30,Merck-Stadion am Böllenfalltor,SV Darmstadt 98,VfB Stuttgart,
+191,22,17/02/2024 09:30,Voith-Arena,1. FC Heidenheim 1846,Bayer 04 Leverkusen,
+192,22,17/02/2024 09:30,Vonovia Ruhrstadion,VfL Bochum 1848,FC Bayern München,
+193,22,17/02/2024 09:30,PreZero Arena,TSG Hoffenheim,1. FC Union Berlin,
+194,22,17/02/2024 09:30,RheinEnergieSTADION,1. FC Köln,SV Werder Bremen,
+195,22,17/02/2024 09:30,MEWA ARENA,1. FSV Mainz 05,FC Augsburg,
+196,22,17/02/2024 09:30,Volkswagen Arena,VfL Wolfsburg,Borussia Dortmund,
+197,22,17/02/2024 09:30,Europa-Park Stadion,Sport-Club Freiburg,Eintracht Frankfurt,
+198,22,17/02/2024 09:30,Red Bull Arena,RB Leipzig,Borussia Mönchengladbach,
+199,23,24/02/2024 09:30,Mercedes-Benz Arena,VfB Stuttgart,1. FC Köln,
+200,23,24/02/2024 09:30,WWK ARENA,FC Augsburg,Sport-Club Freiburg,
+201,23,24/02/2024 09:30,wohninvest WESERSTADION,SV Werder Bremen,SV Darmstadt 98,
+202,23,24/02/2024 09:30,BORUSSIA-PARK,Borussia Mönchengladbach,VfL Bochum 1848,
+203,23,24/02/2024 09:30,Deutsche Bank Park,Eintracht Frankfurt,VfL Wolfsburg,
+204,23,24/02/2024 09:30,BayArena,Bayer 04 Leverkusen,1. FSV Mainz 05,
+205,23,24/02/2024 09:30,An der Alten Försterei,1. FC Union Berlin,1. FC Heidenheim 1846,
+206,23,24/02/2024 09:30,SIGNAL IDUNA PARK,Borussia Dortmund,TSG Hoffenheim,
+207,23,24/02/2024 09:30,Allianz Arena,FC Bayern München,RB Leipzig,
+208,24,02/03/2024 09:30,Merck-Stadion am Böllenfalltor,SV Darmstadt 98,FC Augsburg,
+209,24,02/03/2024 09:30,Voith-Arena,1. FC Heidenheim 1846,Eintracht Frankfurt,
+210,24,02/03/2024 09:30,Vonovia Ruhrstadion,VfL Bochum 1848,RB Leipzig,
+211,24,02/03/2024 09:30,PreZero Arena,TSG Hoffenheim,SV Werder Bremen,
+212,24,02/03/2024 09:30,RheinEnergieSTADION,1. FC Köln,Bayer 04 Leverkusen,
+213,24,02/03/2024 09:30,MEWA ARENA,1. FSV Mainz 05,Borussia Mönchengladbach,
+214,24,02/03/2024 09:30,Volkswagen Arena,VfL Wolfsburg,VfB Stuttgart,
+215,24,02/03/2024 09:30,Europa-Park Stadion,Sport-Club Freiburg,FC Bayern München,
+216,24,02/03/2024 09:30,An der Alten Försterei,1. FC Union Berlin,Borussia Dortmund,
+217,25,09/03/2024 09:30,Mercedes-Benz Arena,VfB Stuttgart,1. FC Union Berlin,
+218,25,09/03/2024 09:30,WWK ARENA,FC Augsburg,1. FC Heidenheim 1846,
+219,25,09/03/2024 09:30,Vonovia Ruhrstadion,VfL Bochum 1848,Sport-Club Freiburg,
+220,25,09/03/2024 09:30,wohninvest WESERSTADION,SV Werder Bremen,Borussia Dortmund,
+221,25,09/03/2024 09:30,BORUSSIA-PARK,Borussia Mönchengladbach,1. FC Köln,
+222,25,09/03/2024 09:30,Deutsche Bank Park,Eintracht Frankfurt,TSG Hoffenheim,
+223,25,09/03/2024 09:30,BayArena,Bayer 04 Leverkusen,VfL Wolfsburg,
+224,25,09/03/2024 09:30,Red Bull Arena,RB Leipzig,SV Darmstadt 98,
+225,25,09/03/2024 09:30,Allianz Arena,FC Bayern München,1. FSV Mainz 05,
+226,26,16/03/2024 10:30,Merck-Stadion am Böllenfalltor,SV Darmstadt 98,FC Bayern München,
+227,26,16/03/2024 10:30,Voith-Arena,1. FC Heidenheim 1846,Borussia Mönchengladbach,
+228,26,16/03/2024 10:30,PreZero Arena,TSG Hoffenheim,VfB Stuttgart,
+229,26,16/03/2024 10:30,RheinEnergieSTADION,1. FC Köln,RB Leipzig,
+230,26,16/03/2024 10:30,MEWA ARENA,1. FSV Mainz 05,VfL Bochum 1848,
+231,26,16/03/2024 10:30,Volkswagen Arena,VfL Wolfsburg,FC Augsburg,
+232,26,16/03/2024 10:30,Europa-Park Stadion,Sport-Club Freiburg,Bayer 04 Leverkusen,
+233,26,16/03/2024 10:30,An der Alten Försterei,1. FC Union Berlin,SV Werder Bremen,
+234,26,16/03/2024 10:30,SIGNAL IDUNA PARK,Borussia Dortmund,Eintracht Frankfurt,
+235,27,30/03/2024 10:30,Mercedes-Benz Arena,VfB Stuttgart,1. FC Heidenheim 1846,
+236,27,30/03/2024 10:30,WWK ARENA,FC Augsburg,1. FC Köln,
+237,27,30/03/2024 10:30,Vonovia Ruhrstadion,VfL Bochum 1848,SV Darmstadt 98,
+238,27,30/03/2024 10:30,wohninvest WESERSTADION,SV Werder Bremen,VfL Wolfsburg,
+239,27,30/03/2024 10:30,BORUSSIA-PARK,Borussia Mönchengladbach,Sport-Club Freiburg,
+240,27,30/03/2024 10:30,Deutsche Bank Park,Eintracht Frankfurt,1. FC Union Berlin,
+241,27,30/03/2024 10:30,BayArena,Bayer 04 Leverkusen,TSG Hoffenheim,
+242,27,30/03/2024 10:30,Red Bull Arena,RB Leipzig,1. FSV Mainz 05,
+243,27,30/03/2024 10:30,Allianz Arena,FC Bayern München,Borussia Dortmund,
+244,28,06/04/2024 09:30,Voith-Arena,1. FC Heidenheim 1846,FC Bayern München,
+245,28,06/04/2024 09:30,PreZero Arena,TSG Hoffenheim,FC Augsburg,
+246,28,06/04/2024 09:30,RheinEnergieSTADION,1. FC Köln,VfL Bochum 1848,
+247,28,06/04/2024 09:30,MEWA ARENA,1. FSV Mainz 05,SV Darmstadt 98,
+248,28,06/04/2024 09:30,Volkswagen Arena,VfL Wolfsburg,Borussia Mönchengladbach,
+249,28,06/04/2024 09:30,Deutsche Bank Park,Eintracht Frankfurt,SV Werder Bremen,
+250,28,06/04/2024 09:30,Europa-Park Stadion,Sport-Club Freiburg,RB Leipzig,
+251,28,06/04/2024 09:30,An der Alten Försterei,1. FC Union Berlin,Bayer 04 Leverkusen,
+252,28,06/04/2024 09:30,SIGNAL IDUNA PARK,Borussia Dortmund,VfB Stuttgart,
+253,29,13/04/2024 09:30,Merck-Stadion am Böllenfalltor,SV Darmstadt 98,Sport-Club Freiburg,
+254,29,13/04/2024 09:30,Mercedes-Benz Arena,VfB Stuttgart,Eintracht Frankfurt,
+255,29,13/04/2024 09:30,WWK ARENA,FC Augsburg,1. FC Union Berlin,
+256,29,13/04/2024 09:30,Vonovia Ruhrstadion,VfL Bochum 1848,1. FC Heidenheim 1846,
+257,29,13/04/2024 09:30,BORUSSIA-PARK,Borussia Mönchengladbach,Borussia Dortmund,
+258,29,13/04/2024 09:30,MEWA ARENA,1. FSV Mainz 05,TSG Hoffenheim,
+259,29,13/04/2024 09:30,BayArena,Bayer 04 Leverkusen,SV Werder Bremen,
+260,29,13/04/2024 09:30,Red Bull Arena,RB Leipzig,VfL Wolfsburg,
+261,29,13/04/2024 09:30,Allianz Arena,FC Bayern München,1. FC Köln,
+262,30,20/04/2024 09:30,Voith-Arena,1. FC Heidenheim 1846,RB Leipzig,
+263,30,20/04/2024 09:30,wohninvest WESERSTADION,SV Werder Bremen,VfB Stuttgart,
+264,30,20/04/2024 09:30,PreZero Arena,TSG Hoffenheim,Borussia Mönchengladbach,
+265,30,20/04/2024 09:30,RheinEnergieSTADION,1. FC Köln,SV Darmstadt 98,
+266,30,20/04/2024 09:30,Volkswagen Arena,VfL Wolfsburg,VfL Bochum 1848,
+267,30,20/04/2024 09:30,Deutsche Bank Park,Eintracht Frankfurt,FC Augsburg,
+268,30,20/04/2024 09:30,Europa-Park Stadion,Sport-Club Freiburg,1. FSV Mainz 05,
+269,30,20/04/2024 09:30,An der Alten Försterei,1. FC Union Berlin,FC Bayern München,
+270,30,20/04/2024 09:30,SIGNAL IDUNA PARK,Borussia Dortmund,Bayer 04 Leverkusen,
+271,31,27/04/2024 09:30,Merck-Stadion am Böllenfalltor,SV Darmstadt 98,1. FC Heidenheim 1846,
+272,31,27/04/2024 09:30,WWK ARENA,FC Augsburg,SV Werder Bremen,
+273,31,27/04/2024 09:30,Vonovia Ruhrstadion,VfL Bochum 1848,TSG Hoffenheim,
+274,31,27/04/2024 09:30,BORUSSIA-PARK,Borussia Mönchengladbach,1. FC Union Berlin,
+275,31,27/04/2024 09:30,MEWA ARENA,1. FSV Mainz 05,1. FC Köln,
+276,31,27/04/2024 09:30,BayArena,Bayer 04 Leverkusen,VfB Stuttgart,
+277,31,27/04/2024 09:30,Europa-Park Stadion,Sport-Club Freiburg,VfL Wolfsburg,
+278,31,27/04/2024 09:30,Red Bull Arena,RB Leipzig,Borussia Dortmund,
+279,31,27/04/2024 09:30,Allianz Arena,FC Bayern München,Eintracht Frankfurt,
+280,32,04/05/2024 09:30,Voith-Arena,1. FC Heidenheim 1846,1. FSV Mainz 05,
+281,32,04/05/2024 09:30,Mercedes-Benz Arena,VfB Stuttgart,FC Bayern München,
+282,32,04/05/2024 09:30,wohninvest WESERSTADION,SV Werder Bremen,Borussia Mönchengladbach,
+283,32,04/05/2024 09:30,PreZero Arena,TSG Hoffenheim,RB Leipzig,
+284,32,04/05/2024 09:30,RheinEnergieSTADION,1. FC Köln,Sport-Club Freiburg,
+285,32,04/05/2024 09:30,Volkswagen Arena,VfL Wolfsburg,SV Darmstadt 98,
+286,32,04/05/2024 09:30,Deutsche Bank Park,Eintracht Frankfurt,Bayer 04 Leverkusen,
+287,32,04/05/2024 09:30,An der Alten Försterei,1. FC Union Berlin,VfL Bochum 1848,
+288,32,04/05/2024 09:30,SIGNAL IDUNA PARK,Borussia Dortmund,FC Augsburg,
+289,33,11/05/2024 09:30,Merck-Stadion am Böllenfalltor,SV Darmstadt 98,TSG Hoffenheim,
+290,33,11/05/2024 09:30,WWK ARENA,FC Augsburg,VfB Stuttgart,
+291,33,11/05/2024 09:30,Vonovia Ruhrstadion,VfL Bochum 1848,Bayer 04 Leverkusen,
+292,33,11/05/2024 09:30,RheinEnergieSTADION,1. FC Köln,1. FC Union Berlin,
+293,33,11/05/2024 09:30,BORUSSIA-PARK,Borussia Mönchengladbach,Eintracht Frankfurt,
+294,33,11/05/2024 09:30,MEWA ARENA,1. FSV Mainz 05,Borussia Dortmund,
+295,33,11/05/2024 09:30,Europa-Park Stadion,Sport-Club Freiburg,1. FC Heidenheim 1846,
+296,33,11/05/2024 09:30,Red Bull Arena,RB Leipzig,SV Werder Bremen,
+297,33,11/05/2024 09:30,Allianz Arena,FC Bayern München,VfL Wolfsburg,
+298,34,18/05/2024 09:30,Voith-Arena,1. FC Heidenheim 1846,1. FC Köln,
+299,34,18/05/2024 09:30,Mercedes-Benz Arena,VfB Stuttgart,Borussia Mönchengladbach,
+300,34,18/05/2024 09:30,wohninvest WESERSTADION,SV Werder Bremen,VfL Bochum 1848,
+301,34,18/05/2024 09:30,PreZero Arena,TSG Hoffenheim,FC Bayern München,
+302,34,18/05/2024 09:30,Volkswagen Arena,VfL Wolfsburg,1. FSV Mainz 05,
+303,34,18/05/2024 09:30,Deutsche Bank Park,Eintracht Frankfurt,RB Leipzig,
+304,34,18/05/2024 09:30,BayArena,Bayer 04 Leverkusen,FC Augsburg,
+305,34,18/05/2024 09:30,An der Alten Försterei,1. FC Union Berlin,Sport-Club Freiburg,
+306,34,18/05/2024 09:30,SIGNAL IDUNA PARK,Borussia Dortmund,SV Darmstadt 98,
