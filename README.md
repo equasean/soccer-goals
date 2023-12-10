@@ -29,19 +29,6 @@ Setup and Installation
 
 git clone https://github.com/equasean/soccer-match-analysis.git
 
-Navigate to the project directory:
-
-bash
-
-cd soccer-match-analysis
-
-(Optional) Set up a virtual environment:
-
-bash
-
-python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-
 Install the required Python packages:
 
     pip install -r requirements.txt
