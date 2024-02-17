@@ -1,42 +1,36 @@
 # Soccer Match Analysis for Entertainment Value
 
-Project Overview
+## Project Overview
 
 This project analyzes historical soccer match data from Europe's top five leagues to identify the most entertaining team matchups based on total goals scored. The aim is to provide insights into high-scoring team pairings, frequency of teams in entertaining matches, and overall patterns in goal distribution.
 Key Features
 
-    Aggregation of total and average goals scored in matches between each unique team pairing.
-    Identification of teams frequently appearing in high-scoring games.
-    Interactive visualizations and dashboard to explore historical match data.
+- Aggregation of total and average goals scored in matches between each unique team pairing.
+- Identification of teams frequently appearing in high-scoring games.
+- Interactive visualizations and dashboard to explore historical match data.
 
-Data Sources
+## Data Sources
 
-    games.csv: Historical match data including details of matches in top European leagues.
-    game_events.csv: Data on specific game events, particularly goals.
-    competitions.csv: Information about the different competitions featured in the dataset.
-    Fixture lists for the current season from the top five European leagues.
+- games.csv: Historical match data including details of matches in top European leagues.
+- game_events.csv: Data on specific game events, particularly goals.
+- competitions.csv: Information about the different competitions featured in the dataset.
+- Fixture lists for the current season from the top five European leagues.
 
-Technologies Used
+## Technologies Used
 
-    Python (Pandas, Matplotlib/Seaborn)
-    Tableau for data visualization
+- Python (Pandas, Matplotlib/Seaborn)
+- Tableau for data visualization
 
-Setup and Installation
+## Setup and Installation
 
-    Clone the repository:
+## Install the required Python packages:
 
-    bash
-
-git clone https://github.com/equasean/soccer-match-analysis.git
-
-Install the required Python packages:
-
-    pip install -r requirements.txt
+- pip install -r requirements.txt
     
-License
+## License
 
-This project is licensed under the MIT License.
+- This project is licensed under the MIT License.
 
-Acknowledgements
+## Acknowledgements
 
-    Data provided by Transfermarkt
+- Data provided by Transfermarkt
